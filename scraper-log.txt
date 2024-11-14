@@ -1,0 +1,10 @@
+[2024-11-14T20:41:21.110Z] Scraping started...
+[2024-11-14T20:41:21.398Z] Processing file: processed_raw_merged_nov14.txt_part_1.txt
+[2024-11-14T20:41:21.399Z] Navigating to URL: https://archive.4plebs.org/pol/thread/399046707/#399046707
+[2024-11-14T20:41:35.632Z] Thread 399046707: Fetched 330 articles
+[2024-11-14T20:41:35.632Z] Saved 330 articles for thread 399046707
+[2024-11-14T20:41:35.632Z] Navigating to URL: https://archive.4plebs.org/pol/thread/412559092/#412559092
+[2024-11-14T20:41:47.929Z] Thread 412559092: Fetched 335 articles
+[2024-11-14T20:41:47.930Z] Saved 335 articles for thread 412559092
+[2024-11-14T20:41:47.932Z] Navigating to URL: https://archive.4plebs.org/pol/thread/430298832/#430298832
+[2024-11-14T20:41:57.126Z] Error with thread 430298832, retry 1
