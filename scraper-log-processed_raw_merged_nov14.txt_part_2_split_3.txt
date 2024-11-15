@@ -459,3 +459,218 @@
 [2024-11-15T19:53:48.807Z] Navigating to URL: https://archive.4plebs.org/pol/thread/442144668/#442144668
 [2024-11-15T19:53:55.406Z] Scheduled commit and push to Git...
 [2024-11-15T19:53:55.407Z] Committing logs to Git...
+[2024-11-15T19:53:56.862Z] Successfully committed and pushed the logs to Git.
+[2024-11-15T19:54:00.546Z] Thread 442144668: Fetched 304 articles
+[2024-11-15T19:54:00.546Z] Saved 304 articles for thread 442144668
+[2024-11-15T19:54:00.546Z] Navigating to URL: https://archive.4plebs.org/pol/thread/454152818/#454152818
+[2024-11-15T19:54:12.533Z] Thread 454152818: Fetched 112 articles
+[2024-11-15T19:54:12.533Z] Saved 112 articles for thread 454152818
+[2024-11-15T19:54:12.534Z] Navigating to URL: https://archive.4plebs.org/pol/thread/449512287/#449512287
+[2024-11-15T19:54:24.051Z] Thread 449512287: Fetched 36 articles
+[2024-11-15T19:54:24.051Z] Saved 36 articles for thread 449512287
+[2024-11-15T19:54:24.051Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448482935/#448482935
+[2024-11-15T19:54:35.541Z] Thread 448482935: Fetched 170 articles
+[2024-11-15T19:54:35.541Z] Saved 170 articles for thread 448482935
+[2024-11-15T19:54:35.542Z] Navigating to URL: https://archive.4plebs.org/pol/thread/454325251/#454325251
+[2024-11-15T19:54:46.847Z] Thread 454325251: Fetched 64 articles
+[2024-11-15T19:54:46.847Z] Saved 64 articles for thread 454325251
+[2024-11-15T19:54:46.848Z] Navigating to URL: https://archive.4plebs.org/pol/thread/449612932/#449612932
+[2024-11-15T19:55:02.138Z] Thread 449612932: Fetched 328 articles
+[2024-11-15T19:55:02.138Z] Saved 328 articles for thread 449612932
+[2024-11-15T19:55:02.138Z] Navigating to URL: https://archive.4plebs.org/pol/thread/447219625/#447219625
+[2024-11-15T19:55:13.990Z] Thread 447219625: Fetched 237 articles
+[2024-11-15T19:55:13.990Z] Saved 237 articles for thread 447219625
+[2024-11-15T19:55:13.991Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452343408/#452343408
+[2024-11-15T19:55:25.709Z] Thread 452343408: Fetched 308 articles
+[2024-11-15T19:55:25.710Z] Saved 308 articles for thread 452343408
+[2024-11-15T19:55:25.710Z] Navigating to URL: https://archive.4plebs.org/pol/thread/436433522/#436433522
+[2024-11-15T19:55:37.018Z] Thread 436433522: Fetched 13 articles
+[2024-11-15T19:55:37.019Z] Saved 13 articles for thread 436433522
+[2024-11-15T19:55:37.019Z] Navigating to URL: https://archive.4plebs.org/pol/thread/445473824/#445473824
+[2024-11-15T19:55:48.998Z] Thread 445473824: Fetched 319 articles
+[2024-11-15T19:55:48.998Z] Saved 319 articles for thread 445473824
+[2024-11-15T19:55:48.999Z] Navigating to URL: https://archive.4plebs.org/pol/thread/437650780/#437650780
+[2024-11-15T19:56:00.664Z] Thread 437650780: Fetched 20 articles
+[2024-11-15T19:56:00.664Z] Saved 20 articles for thread 437650780
+[2024-11-15T19:56:00.665Z] Navigating to URL: https://archive.4plebs.org/pol/thread/439915982/#439915982
+[2024-11-15T19:56:12.160Z] Thread 439915982: Fetched 82 articles
+[2024-11-15T19:56:12.160Z] Saved 82 articles for thread 439915982
+[2024-11-15T19:56:12.160Z] Navigating to URL: https://archive.4plebs.org/pol/thread/446997484/#446997484
+[2024-11-15T19:56:24.198Z] Thread 446997484: Fetched 331 articles
+[2024-11-15T19:56:24.198Z] Saved 331 articles for thread 446997484
+[2024-11-15T19:56:24.198Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448547322/#448547322
+[2024-11-15T19:56:35.887Z] Thread 448547322: Fetched 2 articles
+[2024-11-15T19:56:35.888Z] Saved 2 articles for thread 448547322
+[2024-11-15T19:56:35.888Z] Navigating to URL: https://archive.4plebs.org/pol/thread/435816736/#435816736
+[2024-11-15T19:56:47.559Z] Thread 435816736: Fetched 315 articles
+[2024-11-15T19:56:47.559Z] Saved 315 articles for thread 435816736
+[2024-11-15T19:56:47.560Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452064219/#452064219
+[2024-11-15T19:56:59.720Z] Thread 452064219: Fetched 26 articles
+[2024-11-15T19:56:59.720Z] Saved 26 articles for thread 452064219
+[2024-11-15T19:56:59.721Z] Navigating to URL: https://archive.4plebs.org/pol/thread/450076622/#450076622
+[2024-11-15T19:57:11.465Z] Thread 450076622: Fetched 324 articles
+[2024-11-15T19:57:11.466Z] Saved 324 articles for thread 450076622
+[2024-11-15T19:57:11.466Z] Navigating to URL: https://archive.4plebs.org/pol/thread/433305486/#433305486
+[2024-11-15T19:57:22.887Z] Thread 433305486: Fetched 159 articles
+[2024-11-15T19:57:22.888Z] Saved 159 articles for thread 433305486
+[2024-11-15T19:57:22.888Z] Navigating to URL: https://archive.4plebs.org/pol/thread/451865178/#451865178
+[2024-11-15T19:57:34.635Z] Thread 451865178: Fetched 306 articles
+[2024-11-15T19:57:34.635Z] Saved 306 articles for thread 451865178
+[2024-11-15T19:57:34.635Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448515014/#448515014
+[2024-11-15T19:57:46.329Z] Thread 448515014: Fetched 340 articles
+[2024-11-15T19:57:46.329Z] Saved 340 articles for thread 448515014
+[2024-11-15T19:57:46.329Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452132465/#452132465
+[2024-11-15T19:57:58.093Z] Thread 452132465: Fetched 303 articles
+[2024-11-15T19:57:58.094Z] Saved 303 articles for thread 452132465
+[2024-11-15T19:57:58.094Z] Navigating to URL: https://archive.4plebs.org/pol/thread/435022670/#435022670
+[2024-11-15T19:58:09.597Z] Thread 435022670: Fetched 30 articles
+[2024-11-15T19:58:09.598Z] Saved 30 articles for thread 435022670
+[2024-11-15T19:58:09.598Z] Navigating to URL: https://archive.4plebs.org/pol/thread/447207030/#447207030
+[2024-11-15T19:58:21.400Z] Thread 447207030: Fetched 14 articles
+[2024-11-15T19:58:21.400Z] Saved 14 articles for thread 447207030
+[2024-11-15T19:58:21.400Z] Navigating to URL: https://archive.4plebs.org/pol/thread/451291595/#451291595
+[2024-11-15T19:58:33.382Z] Thread 451291595: Fetched 368 articles
+[2024-11-15T19:58:33.382Z] Saved 368 articles for thread 451291595
+[2024-11-15T19:58:33.383Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452258473/#452258473
+[2024-11-15T19:58:44.844Z] Thread 452258473: Fetched 23 articles
+[2024-11-15T19:58:44.844Z] Saved 23 articles for thread 452258473
+[2024-11-15T19:58:44.844Z] Navigating to URL: https://archive.4plebs.org/pol/thread/454336551/#454336551
+[2024-11-15T19:58:56.527Z] Thread 454336551: Fetched 86 articles
+[2024-11-15T19:58:56.528Z] Saved 86 articles for thread 454336551
+[2024-11-15T19:58:56.528Z] Navigating to URL: https://archive.4plebs.org/pol/thread/447338895/#447338895
+[2024-11-15T19:59:08.092Z] Thread 447338895: Fetched 59 articles
+[2024-11-15T19:59:08.092Z] Saved 59 articles for thread 447338895
+[2024-11-15T19:59:08.092Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452801841/#452801841
+[2024-11-15T19:59:19.580Z] Thread 452801841: Fetched 22 articles
+[2024-11-15T19:59:19.580Z] Saved 22 articles for thread 452801841
+[2024-11-15T19:59:19.581Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452155764/#452155764
+[2024-11-15T19:59:31.331Z] Thread 452155764: Fetched 333 articles
+[2024-11-15T19:59:31.332Z] Saved 333 articles for thread 452155764
+[2024-11-15T19:59:31.332Z] Navigating to URL: https://archive.4plebs.org/pol/thread/438803595/#438803595
+[2024-11-15T19:59:42.742Z] Thread 438803595: Fetched 151 articles
+[2024-11-15T19:59:42.742Z] Saved 151 articles for thread 438803595
+[2024-11-15T19:59:42.743Z] Navigating to URL: https://archive.4plebs.org/pol/thread/435344754/#435344754
+[2024-11-15T19:59:54.465Z] Thread 435344754: Fetched 312 articles
+[2024-11-15T19:59:54.466Z] Saved 312 articles for thread 435344754
+[2024-11-15T19:59:54.466Z] Navigating to URL: https://archive.4plebs.org/pol/thread/437893664/#437893664
+[2024-11-15T20:00:06.994Z] Thread 437893664: Fetched 8 articles
+[2024-11-15T20:00:06.995Z] Saved 8 articles for thread 437893664
+[2024-11-15T20:00:06.995Z] Navigating to URL: https://archive.4plebs.org/pol/thread/435529759/#435529759
+[2024-11-15T20:00:18.477Z] Thread 435529759: Fetched 113 articles
+[2024-11-15T20:00:18.478Z] Saved 113 articles for thread 435529759
+[2024-11-15T20:00:18.478Z] Navigating to URL: https://archive.4plebs.org/pol/thread/440611982/#440611982
+[2024-11-15T20:00:30.070Z] Thread 440611982: Fetched 169 articles
+[2024-11-15T20:00:30.071Z] Saved 169 articles for thread 440611982
+[2024-11-15T20:00:30.071Z] Navigating to URL: https://archive.4plebs.org/pol/thread/434123397/#434123397
+[2024-11-15T20:00:41.537Z] Thread 434123397: Fetched 53 articles
+[2024-11-15T20:00:41.538Z] Saved 53 articles for thread 434123397
+[2024-11-15T20:00:41.538Z] Navigating to URL: https://archive.4plebs.org/pol/thread/435658191/#435658191
+[2024-11-15T20:00:53.375Z] Thread 435658191: Fetched 130 articles
+[2024-11-15T20:00:53.376Z] Saved 130 articles for thread 435658191
+[2024-11-15T20:00:53.376Z] Navigating to URL: https://archive.4plebs.org/pol/thread/444075175/#444075175
+[2024-11-15T20:01:05.670Z] Thread 444075175: Fetched 329 articles
+[2024-11-15T20:01:05.670Z] Saved 329 articles for thread 444075175
+[2024-11-15T20:01:05.671Z] Navigating to URL: https://archive.4plebs.org/pol/thread/442099803/#442099803
+[2024-11-15T20:01:17.526Z] Thread 442099803: Fetched 304 articles
+[2024-11-15T20:01:17.527Z] Saved 304 articles for thread 442099803
+[2024-11-15T20:01:17.527Z] Navigating to URL: https://archive.4plebs.org/pol/thread/446348618/#446348618
+[2024-11-15T20:01:29.969Z] Thread 446348618: Fetched 323 articles
+[2024-11-15T20:01:29.969Z] Saved 323 articles for thread 446348618
+[2024-11-15T20:01:29.969Z] Navigating to URL: https://archive.4plebs.org/pol/thread/445121576/#445121576
+[2024-11-15T20:01:42.157Z] Thread 445121576: Fetched 146 articles
+[2024-11-15T20:01:42.157Z] Saved 146 articles for thread 445121576
+[2024-11-15T20:01:42.157Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448005955/#448005955
+[2024-11-15T20:01:53.867Z] Thread 448005955: Fetched 324 articles
+[2024-11-15T20:01:53.868Z] Saved 324 articles for thread 448005955
+[2024-11-15T20:01:53.868Z] Navigating to URL: https://archive.4plebs.org/pol/thread/451084826/#451084826
+[2024-11-15T20:02:06.077Z] Thread 451084826: Fetched 51 articles
+[2024-11-15T20:02:06.077Z] Saved 51 articles for thread 451084826
+[2024-11-15T20:02:06.078Z] Navigating to URL: https://archive.4plebs.org/pol/thread/443876120/#443876120
+[2024-11-15T20:02:18.439Z] Thread 443876120: Fetched 336 articles
+[2024-11-15T20:02:18.439Z] Saved 336 articles for thread 443876120
+[2024-11-15T20:02:18.439Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448902127/#448902127
+[2024-11-15T20:02:30.538Z] Thread 448902127: Fetched 241 articles
+[2024-11-15T20:02:30.538Z] Saved 241 articles for thread 448902127
+[2024-11-15T20:02:30.538Z] Navigating to URL: https://archive.4plebs.org/pol/thread/433836605/#433836605
+[2024-11-15T20:02:42.062Z] Thread 433836605: Fetched 67 articles
+[2024-11-15T20:02:42.063Z] Saved 67 articles for thread 433836605
+[2024-11-15T20:02:42.063Z] Navigating to URL: https://archive.4plebs.org/pol/thread/441270121/#441270121
+[2024-11-15T20:02:53.484Z] Thread 441270121: Fetched 60 articles
+[2024-11-15T20:02:53.484Z] Saved 60 articles for thread 441270121
+[2024-11-15T20:02:53.485Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448608465/#448608465
+[2024-11-15T20:03:04.960Z] Thread 448608465: Fetched 7 articles
+[2024-11-15T20:03:04.960Z] Saved 7 articles for thread 448608465
+[2024-11-15T20:03:04.961Z] Navigating to URL: https://archive.4plebs.org/pol/thread/450197451/#450197451
+[2024-11-15T20:03:17.041Z] Thread 450197451: Fetched 306 articles
+[2024-11-15T20:03:17.042Z] Saved 306 articles for thread 450197451
+[2024-11-15T20:03:17.042Z] Navigating to URL: https://archive.4plebs.org/pol/thread/436140050/#436140050
+[2024-11-15T20:03:29.842Z] Thread 436140050: Fetched 110 articles
+[2024-11-15T20:03:29.842Z] Saved 110 articles for thread 436140050
+[2024-11-15T20:03:29.842Z] Navigating to URL: https://archive.4plebs.org/pol/thread/440499137/#440499137
+[2024-11-15T20:03:41.884Z] Thread 440499137: Fetched 305 articles
+[2024-11-15T20:03:41.884Z] Saved 305 articles for thread 440499137
+[2024-11-15T20:03:41.885Z] Navigating to URL: https://archive.4plebs.org/pol/thread/447300362/#447300362
+[2024-11-15T20:03:53.228Z] Thread 447300362: Fetched 25 articles
+[2024-11-15T20:03:53.228Z] Saved 25 articles for thread 447300362
+[2024-11-15T20:03:53.228Z] Navigating to URL: https://archive.4plebs.org/pol/thread/447054639/#447054639
+[2024-11-15T20:04:04.683Z] Thread 447054639: Fetched 47 articles
+[2024-11-15T20:04:04.683Z] Saved 47 articles for thread 447054639
+[2024-11-15T20:04:04.683Z] Navigating to URL: https://archive.4plebs.org/pol/thread/441586281/#441586281
+[2024-11-15T20:04:16.510Z] Thread 441586281: Fetched 346 articles
+[2024-11-15T20:04:16.511Z] Saved 346 articles for thread 441586281
+[2024-11-15T20:04:16.511Z] Navigating to URL: https://archive.4plebs.org/pol/thread/449158333/#449158333
+[2024-11-15T20:04:28.235Z] Thread 449158333: Fetched 306 articles
+[2024-11-15T20:04:28.235Z] Saved 306 articles for thread 449158333
+[2024-11-15T20:04:28.235Z] Navigating to URL: https://archive.4plebs.org/pol/thread/450898248/#450898248
+[2024-11-15T20:04:40.631Z] Thread 450898248: Fetched 110 articles
+[2024-11-15T20:04:40.632Z] Saved 110 articles for thread 450898248
+[2024-11-15T20:04:40.632Z] Navigating to URL: https://archive.4plebs.org/pol/thread/453510612/#453510612
+[2024-11-15T20:04:52.165Z] Thread 453510612: Fetched 96 articles
+[2024-11-15T20:04:52.165Z] Saved 96 articles for thread 453510612
+[2024-11-15T20:04:52.165Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452633767/#452633767
+[2024-11-15T20:05:03.696Z] Thread 452633767: Fetched 98 articles
+[2024-11-15T20:05:03.697Z] Saved 98 articles for thread 452633767
+[2024-11-15T20:05:03.697Z] Navigating to URL: https://archive.4plebs.org/pol/thread/451795765/#451795765
+[2024-11-15T20:05:15.569Z] Thread 451795765: Fetched 386 articles
+[2024-11-15T20:05:15.569Z] Saved 386 articles for thread 451795765
+[2024-11-15T20:05:15.570Z] Navigating to URL: https://archive.4plebs.org/pol/thread/453112140/#453112140
+[2024-11-15T20:05:27.327Z] Thread 453112140: Fetched 156 articles
+[2024-11-15T20:05:27.328Z] Saved 156 articles for thread 453112140
+[2024-11-15T20:05:27.328Z] Navigating to URL: https://archive.4plebs.org/pol/thread/441355011/#441355011
+[2024-11-15T20:05:39.321Z] Thread 441355011: Fetched 320 articles
+[2024-11-15T20:05:39.321Z] Saved 320 articles for thread 441355011
+[2024-11-15T20:05:39.322Z] Navigating to URL: https://archive.4plebs.org/pol/thread/445002119/#445002119
+[2024-11-15T20:05:50.627Z] Thread 445002119: Fetched 62 articles
+[2024-11-15T20:05:50.627Z] Saved 62 articles for thread 445002119
+[2024-11-15T20:05:50.627Z] Navigating to URL: https://archive.4plebs.org/pol/thread/445939397/#445939397
+[2024-11-15T20:06:02.334Z] Thread 445939397: Fetched 270 articles
+[2024-11-15T20:06:02.335Z] Saved 270 articles for thread 445939397
+[2024-11-15T20:06:02.335Z] Navigating to URL: https://archive.4plebs.org/pol/thread/448459393/#448459393
+[2024-11-15T20:06:14.505Z] Thread 448459393: Fetched 222 articles
+[2024-11-15T20:06:14.505Z] Saved 222 articles for thread 448459393
+[2024-11-15T20:06:14.505Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452648822/#452648822
+[2024-11-15T20:06:26.058Z] Thread 452648822: Fetched 256 articles
+[2024-11-15T20:06:26.058Z] Saved 256 articles for thread 452648822
+[2024-11-15T20:06:26.058Z] Navigating to URL: https://archive.4plebs.org/pol/thread/441445331/#441445331
+[2024-11-15T20:06:37.805Z] Thread 441445331: Fetched 318 articles
+[2024-11-15T20:06:37.805Z] Saved 318 articles for thread 441445331
+[2024-11-15T20:06:37.805Z] Navigating to URL: https://archive.4plebs.org/pol/thread/453838144/#453838144
+[2024-11-15T20:06:49.696Z] Thread 453838144: Fetched 78 articles
+[2024-11-15T20:06:49.696Z] Saved 78 articles for thread 453838144
+[2024-11-15T20:06:49.697Z] Navigating to URL: https://archive.4plebs.org/pol/thread/453024582/#453024582
+[2024-11-15T20:07:01.392Z] Thread 453024582: Fetched 319 articles
+[2024-11-15T20:07:01.393Z] Saved 319 articles for thread 453024582
+[2024-11-15T20:07:01.393Z] Navigating to URL: https://archive.4plebs.org/pol/thread/453440561/#453440561
+[2024-11-15T20:07:12.728Z] Thread 453440561: Fetched 2 articles
+[2024-11-15T20:07:12.729Z] Saved 2 articles for thread 453440561
+[2024-11-15T20:07:12.729Z] Navigating to URL: https://archive.4plebs.org/pol/thread/447835580/#447835580
+[2024-11-15T20:07:24.340Z] Thread 447835580: Fetched 149 articles
+[2024-11-15T20:07:24.341Z] Saved 149 articles for thread 447835580
+[2024-11-15T20:07:24.341Z] Navigating to URL: https://archive.4plebs.org/pol/thread/452933477/#452933477
+[2024-11-15T20:07:36.031Z] Thread 452933477: Fetched 221 articles
+[2024-11-15T20:07:36.031Z] Saved 221 articles for thread 452933477
+[2024-11-15T20:07:36.031Z] Navigating to URL: https://archive.4plebs.org/pol/thread/45/#45
+[2024-11-15T20:07:47.293Z] No articles found for thread 45
+[2024-11-15T20:07:47.340Z] Data from processed_raw_merged_nov14.txt_part_2_split_3.txt saved to all_articles_processed_raw_merged_nov14.txt_part_2_split_3.json
+[2024-11-15T20:07:47.341Z] Scraping complete for processed_raw_merged_nov14.txt_part_2_split_3.txt
+[2024-11-15T20:07:47.341Z] Committing logs to Git...
