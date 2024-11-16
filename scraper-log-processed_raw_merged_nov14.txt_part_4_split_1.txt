@@ -1,0 +1,1365 @@
+[2024-11-16T07:23:56.869Z] Scraping started for processed_raw_merged_nov14.txt_part_4_split_1.txt...
+[2024-11-16T07:23:56.870Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459905164/#459905164
+[2024-11-16T07:23:56.881Z] Error with thread 459905164, retry 1
+[2024-11-16T07:23:59.884Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459905164/#459905164
+[2024-11-16T07:23:59.894Z] Error with thread 459905164, retry 2
+[2024-11-16T07:24:02.902Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459905164/#459905164
+[2024-11-16T07:24:02.913Z] Error with thread 459905164, retry 3
+[2024-11-16T07:24:05.920Z] No articles found for thread 459905164
+[2024-11-16T07:24:05.921Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461876179/#461876179
+[2024-11-16T07:24:05.931Z] Error with thread 461876179, retry 1
+[2024-11-16T07:24:08.938Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461876179/#461876179
+[2024-11-16T07:24:08.949Z] Error with thread 461876179, retry 2
+[2024-11-16T07:24:11.960Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461876179/#461876179
+[2024-11-16T07:24:11.970Z] Error with thread 461876179, retry 3
+[2024-11-16T07:24:14.980Z] No articles found for thread 461876179
+[2024-11-16T07:24:14.981Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462241473/#462241473
+[2024-11-16T07:24:14.991Z] Error with thread 462241473, retry 1
+[2024-11-16T07:24:18.005Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462241473/#462241473
+[2024-11-16T07:24:18.016Z] Error with thread 462241473, retry 2
+[2024-11-16T07:24:21.032Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462241473/#462241473
+[2024-11-16T07:24:21.041Z] Error with thread 462241473, retry 3
+[2024-11-16T07:24:24.055Z] No articles found for thread 462241473
+[2024-11-16T07:24:24.055Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462404919/#462404919
+[2024-11-16T07:24:24.065Z] Error with thread 462404919, retry 1
+[2024-11-16T07:24:27.072Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462404919/#462404919
+[2024-11-16T07:24:27.083Z] Error with thread 462404919, retry 2
+[2024-11-16T07:24:30.096Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462404919/#462404919
+[2024-11-16T07:24:30.106Z] Error with thread 462404919, retry 3
+[2024-11-16T07:24:33.114Z] No articles found for thread 462404919
+[2024-11-16T07:24:33.115Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462046692/#462046692
+[2024-11-16T07:24:33.125Z] Error with thread 462046692, retry 1
+[2024-11-16T07:24:36.131Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462046692/#462046692
+[2024-11-16T07:24:36.141Z] Error with thread 462046692, retry 2
+[2024-11-16T07:24:39.143Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462046692/#462046692
+[2024-11-16T07:24:39.154Z] Error with thread 462046692, retry 3
+[2024-11-16T07:24:42.162Z] No articles found for thread 462046692
+[2024-11-16T07:24:42.163Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463023436/#463023436
+[2024-11-16T07:24:42.173Z] Error with thread 463023436, retry 1
+[2024-11-16T07:24:45.173Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463023436/#463023436
+[2024-11-16T07:24:45.183Z] Error with thread 463023436, retry 2
+[2024-11-16T07:24:48.186Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463023436/#463023436
+[2024-11-16T07:24:48.196Z] Error with thread 463023436, retry 3
+[2024-11-16T07:24:51.337Z] No articles found for thread 463023436
+[2024-11-16T07:24:51.337Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460906497/#460906497
+[2024-11-16T07:24:51.348Z] Error with thread 460906497, retry 1
+[2024-11-16T07:24:54.361Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460906497/#460906497
+[2024-11-16T07:24:54.371Z] Error with thread 460906497, retry 2
+[2024-11-16T07:24:57.375Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460906497/#460906497
+[2024-11-16T07:24:57.385Z] Error with thread 460906497, retry 3
+[2024-11-16T07:25:00.391Z] No articles found for thread 460906497
+[2024-11-16T07:25:00.392Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461925394/#461925394
+[2024-11-16T07:25:00.401Z] Error with thread 461925394, retry 1
+[2024-11-16T07:25:03.402Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461925394/#461925394
+[2024-11-16T07:25:03.412Z] Error with thread 461925394, retry 2
+[2024-11-16T07:25:06.420Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461925394/#461925394
+[2024-11-16T07:25:06.430Z] Error with thread 461925394, retry 3
+[2024-11-16T07:25:09.434Z] No articles found for thread 461925394
+[2024-11-16T07:25:09.435Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460566932/#460566932
+[2024-11-16T07:25:09.445Z] Error with thread 460566932, retry 1
+[2024-11-16T07:25:12.448Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460566932/#460566932
+[2024-11-16T07:25:12.458Z] Error with thread 460566932, retry 2
+[2024-11-16T07:25:15.465Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460566932/#460566932
+[2024-11-16T07:25:15.475Z] Error with thread 460566932, retry 3
+[2024-11-16T07:25:18.490Z] No articles found for thread 460566932
+[2024-11-16T07:25:18.490Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461545597/#461545597
+[2024-11-16T07:25:18.500Z] Error with thread 461545597, retry 1
+[2024-11-16T07:25:21.505Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461545597/#461545597
+[2024-11-16T07:25:21.515Z] Error with thread 461545597, retry 2
+[2024-11-16T07:25:24.521Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461545597/#461545597
+[2024-11-16T07:25:24.531Z] Error with thread 461545597, retry 3
+[2024-11-16T07:25:27.535Z] No articles found for thread 461545597
+[2024-11-16T07:25:27.535Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462879916/#462879916
+[2024-11-16T07:25:27.545Z] Error with thread 462879916, retry 1
+[2024-11-16T07:25:30.547Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462879916/#462879916
+[2024-11-16T07:25:30.558Z] Error with thread 462879916, retry 2
+[2024-11-16T07:25:33.561Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462879916/#462879916
+[2024-11-16T07:25:33.571Z] Error with thread 462879916, retry 3
+[2024-11-16T07:25:36.578Z] No articles found for thread 462879916
+[2024-11-16T07:25:36.579Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461820205/#461820205
+[2024-11-16T07:25:36.588Z] Error with thread 461820205, retry 1
+[2024-11-16T07:25:39.597Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461820205/#461820205
+[2024-11-16T07:25:39.606Z] Error with thread 461820205, retry 2
+[2024-11-16T07:25:42.618Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461820205/#461820205
+[2024-11-16T07:25:42.628Z] Error with thread 461820205, retry 3
+[2024-11-16T07:25:45.638Z] No articles found for thread 461820205
+[2024-11-16T07:25:45.639Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460647414/#460647414
+[2024-11-16T07:25:45.649Z] Error with thread 460647414, retry 1
+[2024-11-16T07:25:48.651Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460647414/#460647414
+[2024-11-16T07:25:48.660Z] Error with thread 460647414, retry 2
+[2024-11-16T07:25:51.669Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460647414/#460647414
+[2024-11-16T07:25:51.679Z] Error with thread 460647414, retry 3
+[2024-11-16T07:25:54.687Z] No articles found for thread 460647414
+[2024-11-16T07:25:54.687Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463173549/#463173549
+[2024-11-16T07:25:54.697Z] Error with thread 463173549, retry 1
+[2024-11-16T07:25:57.705Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463173549/#463173549
+[2024-11-16T07:25:57.715Z] Error with thread 463173549, retry 2
+[2024-11-16T07:26:00.723Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463173549/#463173549
+[2024-11-16T07:26:00.734Z] Error with thread 463173549, retry 3
+[2024-11-16T07:26:03.737Z] No articles found for thread 463173549
+[2024-11-16T07:26:03.737Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460262401/#460262401
+[2024-11-16T07:26:03.747Z] Error with thread 460262401, retry 1
+[2024-11-16T07:26:06.752Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460262401/#460262401
+[2024-11-16T07:26:06.762Z] Error with thread 460262401, retry 2
+[2024-11-16T07:26:09.770Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460262401/#460262401
+[2024-11-16T07:26:09.780Z] Error with thread 460262401, retry 3
+[2024-11-16T07:26:12.796Z] No articles found for thread 460262401
+[2024-11-16T07:26:12.796Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461177897/#461177897
+[2024-11-16T07:26:12.806Z] Error with thread 461177897, retry 1
+[2024-11-16T07:26:15.813Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461177897/#461177897
+[2024-11-16T07:26:15.823Z] Error with thread 461177897, retry 2
+[2024-11-16T07:26:18.828Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461177897/#461177897
+[2024-11-16T07:26:18.838Z] Error with thread 461177897, retry 3
+[2024-11-16T07:26:21.854Z] No articles found for thread 461177897
+[2024-11-16T07:26:21.854Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461800938/#461800938
+[2024-11-16T07:26:21.865Z] Error with thread 461800938, retry 1
+[2024-11-16T07:26:24.875Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461800938/#461800938
+[2024-11-16T07:26:24.885Z] Error with thread 461800938, retry 2
+[2024-11-16T07:26:27.888Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461800938/#461800938
+[2024-11-16T07:26:27.898Z] Error with thread 461800938, retry 3
+[2024-11-16T07:26:30.906Z] No articles found for thread 461800938
+[2024-11-16T07:26:30.907Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463184665/#463184665
+[2024-11-16T07:26:30.916Z] Error with thread 463184665, retry 1
+[2024-11-16T07:26:33.921Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463184665/#463184665
+[2024-11-16T07:26:33.931Z] Error with thread 463184665, retry 2
+[2024-11-16T07:26:36.934Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463184665/#463184665
+[2024-11-16T07:26:36.945Z] Error with thread 463184665, retry 3
+[2024-11-16T07:26:39.952Z] No articles found for thread 463184665
+[2024-11-16T07:26:39.953Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463500700/#463500700
+[2024-11-16T07:26:39.963Z] Error with thread 463500700, retry 1
+[2024-11-16T07:26:42.970Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463500700/#463500700
+[2024-11-16T07:26:42.980Z] Error with thread 463500700, retry 2
+[2024-11-16T07:26:45.987Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463500700/#463500700
+[2024-11-16T07:26:45.997Z] Error with thread 463500700, retry 3
+[2024-11-16T07:26:49.005Z] No articles found for thread 463500700
+[2024-11-16T07:26:49.005Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460461343/#460461343
+[2024-11-16T07:26:49.016Z] Error with thread 460461343, retry 1
+[2024-11-16T07:26:52.018Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460461343/#460461343
+[2024-11-16T07:26:52.028Z] Error with thread 460461343, retry 2
+[2024-11-16T07:26:55.030Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460461343/#460461343
+[2024-11-16T07:26:55.041Z] Error with thread 460461343, retry 3
+[2024-11-16T07:26:58.046Z] No articles found for thread 460461343
+[2024-11-16T07:26:58.047Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460712971/#460712971
+[2024-11-16T07:26:58.057Z] Error with thread 460712971, retry 1
+[2024-11-16T07:27:01.059Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460712971/#460712971
+[2024-11-16T07:27:01.070Z] Error with thread 460712971, retry 2
+[2024-11-16T07:27:04.075Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460712971/#460712971
+[2024-11-16T07:27:04.085Z] Error with thread 460712971, retry 3
+[2024-11-16T07:27:07.086Z] No articles found for thread 460712971
+[2024-11-16T07:27:07.086Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463161081/#463161081
+[2024-11-16T07:27:07.096Z] Error with thread 463161081, retry 1
+[2024-11-16T07:27:10.101Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463161081/#463161081
+[2024-11-16T07:27:10.111Z] Error with thread 463161081, retry 2
+[2024-11-16T07:27:13.119Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463161081/#463161081
+[2024-11-16T07:27:13.129Z] Error with thread 463161081, retry 3
+[2024-11-16T07:27:16.138Z] No articles found for thread 463161081
+[2024-11-16T07:27:16.139Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460032956/#460032956
+[2024-11-16T07:27:16.149Z] Error with thread 460032956, retry 1
+[2024-11-16T07:27:19.150Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460032956/#460032956
+[2024-11-16T07:27:19.161Z] Error with thread 460032956, retry 2
+[2024-11-16T07:27:22.173Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460032956/#460032956
+[2024-11-16T07:27:22.183Z] Error with thread 460032956, retry 3
+[2024-11-16T07:27:25.197Z] No articles found for thread 460032956
+[2024-11-16T07:27:25.198Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463928795/#463928795
+[2024-11-16T07:27:25.208Z] Error with thread 463928795, retry 1
+[2024-11-16T07:27:28.215Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463928795/#463928795
+[2024-11-16T07:27:28.225Z] Error with thread 463928795, retry 2
+[2024-11-16T07:27:31.226Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463928795/#463928795
+[2024-11-16T07:27:31.236Z] Error with thread 463928795, retry 3
+[2024-11-16T07:27:34.244Z] No articles found for thread 463928795
+[2024-11-16T07:27:34.244Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460396248/#460396248
+[2024-11-16T07:27:34.254Z] Error with thread 460396248, retry 1
+[2024-11-16T07:27:37.258Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460396248/#460396248
+[2024-11-16T07:27:37.268Z] Error with thread 460396248, retry 2
+[2024-11-16T07:27:40.277Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460396248/#460396248
+[2024-11-16T07:27:40.287Z] Error with thread 460396248, retry 3
+[2024-11-16T07:27:43.295Z] No articles found for thread 460396248
+[2024-11-16T07:27:43.296Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461472988/#461472988
+[2024-11-16T07:27:43.306Z] Error with thread 461472988, retry 1
+[2024-11-16T07:27:46.314Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461472988/#461472988
+[2024-11-16T07:27:46.324Z] Error with thread 461472988, retry 2
+[2024-11-16T07:27:49.330Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461472988/#461472988
+[2024-11-16T07:27:49.340Z] Error with thread 461472988, retry 3
+[2024-11-16T07:27:52.355Z] No articles found for thread 461472988
+[2024-11-16T07:27:52.355Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463059601/#463059601
+[2024-11-16T07:27:52.366Z] Error with thread 463059601, retry 1
+[2024-11-16T07:27:55.368Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463059601/#463059601
+[2024-11-16T07:27:55.378Z] Error with thread 463059601, retry 2
+[2024-11-16T07:27:58.388Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463059601/#463059601
+[2024-11-16T07:27:58.398Z] Error with thread 463059601, retry 3
+[2024-11-16T07:28:01.406Z] No articles found for thread 463059601
+[2024-11-16T07:28:01.406Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461385908/#461385908
+[2024-11-16T07:28:01.416Z] Error with thread 461385908, retry 1
+[2024-11-16T07:28:04.425Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461385908/#461385908
+[2024-11-16T07:28:04.436Z] Error with thread 461385908, retry 2
+[2024-11-16T07:28:07.449Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461385908/#461385908
+[2024-11-16T07:28:07.459Z] Error with thread 461385908, retry 3
+[2024-11-16T07:28:10.464Z] No articles found for thread 461385908
+[2024-11-16T07:28:10.464Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461464929/#461464929
+[2024-11-16T07:28:10.475Z] Error with thread 461464929, retry 1
+[2024-11-16T07:28:13.478Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461464929/#461464929
+[2024-11-16T07:28:13.488Z] Error with thread 461464929, retry 2
+[2024-11-16T07:28:16.493Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461464929/#461464929
+[2024-11-16T07:28:16.503Z] Error with thread 461464929, retry 3
+[2024-11-16T07:28:19.508Z] No articles found for thread 461464929
+[2024-11-16T07:28:19.509Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461758944/#461758944
+[2024-11-16T07:28:19.519Z] Error with thread 461758944, retry 1
+[2024-11-16T07:28:22.532Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461758944/#461758944
+[2024-11-16T07:28:22.543Z] Error with thread 461758944, retry 2
+[2024-11-16T07:28:25.546Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461758944/#461758944
+[2024-11-16T07:28:25.557Z] Error with thread 461758944, retry 3
+[2024-11-16T07:28:28.562Z] No articles found for thread 461758944
+[2024-11-16T07:28:28.563Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460770098/#460770098
+[2024-11-16T07:28:28.573Z] Error with thread 460770098, retry 1
+[2024-11-16T07:28:31.575Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460770098/#460770098
+[2024-11-16T07:28:31.585Z] Error with thread 460770098, retry 2
+[2024-11-16T07:28:34.600Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460770098/#460770098
+[2024-11-16T07:28:34.610Z] Error with thread 460770098, retry 3
+[2024-11-16T07:28:37.616Z] No articles found for thread 460770098
+[2024-11-16T07:28:37.617Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463347947/#463347947
+[2024-11-16T07:28:37.627Z] Error with thread 463347947, retry 1
+[2024-11-16T07:28:40.631Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463347947/#463347947
+[2024-11-16T07:28:40.642Z] Error with thread 463347947, retry 2
+[2024-11-16T07:28:43.651Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463347947/#463347947
+[2024-11-16T07:28:43.661Z] Error with thread 463347947, retry 3
+[2024-11-16T07:28:46.664Z] No articles found for thread 463347947
+[2024-11-16T07:28:46.664Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460939679/#460939679
+[2024-11-16T07:28:46.674Z] Error with thread 460939679, retry 1
+[2024-11-16T07:28:49.687Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460939679/#460939679
+[2024-11-16T07:28:49.697Z] Error with thread 460939679, retry 2
+[2024-11-16T07:28:52.698Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460939679/#460939679
+[2024-11-16T07:28:52.708Z] Error with thread 460939679, retry 3
+[2024-11-16T07:28:55.710Z] No articles found for thread 460939679
+[2024-11-16T07:28:55.711Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460045700/#460045700
+[2024-11-16T07:28:55.721Z] Error with thread 460045700, retry 1
+[2024-11-16T07:28:58.727Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460045700/#460045700
+[2024-11-16T07:28:58.737Z] Error with thread 460045700, retry 2
+[2024-11-16T07:29:01.742Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460045700/#460045700
+[2024-11-16T07:29:01.752Z] Error with thread 460045700, retry 3
+[2024-11-16T07:29:04.760Z] No articles found for thread 460045700
+[2024-11-16T07:29:04.760Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460633910/#460633910
+[2024-11-16T07:29:04.770Z] Error with thread 460633910, retry 1
+[2024-11-16T07:29:07.780Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460633910/#460633910
+[2024-11-16T07:29:07.790Z] Error with thread 460633910, retry 2
+[2024-11-16T07:29:10.802Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460633910/#460633910
+[2024-11-16T07:29:10.812Z] Error with thread 460633910, retry 3
+[2024-11-16T07:29:13.819Z] No articles found for thread 460633910
+[2024-11-16T07:29:13.819Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462256389/#462256389
+[2024-11-16T07:29:13.829Z] Error with thread 462256389, retry 1
+[2024-11-16T07:29:16.835Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462256389/#462256389
+[2024-11-16T07:29:16.845Z] Error with thread 462256389, retry 2
+[2024-11-16T07:29:19.854Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462256389/#462256389
+[2024-11-16T07:29:19.865Z] Error with thread 462256389, retry 3
+[2024-11-16T07:29:22.877Z] No articles found for thread 462256389
+[2024-11-16T07:29:22.878Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463356930/#463356930
+[2024-11-16T07:29:22.888Z] Error with thread 463356930, retry 1
+[2024-11-16T07:29:25.900Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463356930/#463356930
+[2024-11-16T07:29:25.910Z] Error with thread 463356930, retry 2
+[2024-11-16T07:29:28.919Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463356930/#463356930
+[2024-11-16T07:29:28.930Z] Error with thread 463356930, retry 3
+[2024-11-16T07:29:31.941Z] No articles found for thread 463356930
+[2024-11-16T07:29:31.941Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463963849/#463963849
+[2024-11-16T07:29:31.951Z] Error with thread 463963849, retry 1
+[2024-11-16T07:29:34.955Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463963849/#463963849
+[2024-11-16T07:29:34.966Z] Error with thread 463963849, retry 2
+[2024-11-16T07:29:37.981Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463963849/#463963849
+[2024-11-16T07:29:37.992Z] Error with thread 463963849, retry 3
+[2024-11-16T07:29:41.008Z] No articles found for thread 463963849
+[2024-11-16T07:29:41.009Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460388202/#460388202
+[2024-11-16T07:29:41.019Z] Error with thread 460388202, retry 1
+[2024-11-16T07:29:44.027Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460388202/#460388202
+[2024-11-16T07:29:44.037Z] Error with thread 460388202, retry 2
+[2024-11-16T07:29:47.043Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460388202/#460388202
+[2024-11-16T07:29:47.053Z] Error with thread 460388202, retry 3
+[2024-11-16T07:29:50.055Z] No articles found for thread 460388202
+[2024-11-16T07:29:50.055Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463397768/#463397768
+[2024-11-16T07:29:50.066Z] Error with thread 463397768, retry 1
+[2024-11-16T07:29:53.073Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463397768/#463397768
+[2024-11-16T07:29:53.083Z] Error with thread 463397768, retry 2
+[2024-11-16T07:29:56.092Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463397768/#463397768
+[2024-11-16T07:29:56.102Z] Error with thread 463397768, retry 3
+[2024-11-16T07:29:59.109Z] No articles found for thread 463397768
+[2024-11-16T07:29:59.109Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460282034/#460282034
+[2024-11-16T07:29:59.119Z] Error with thread 460282034, retry 1
+[2024-11-16T07:30:02.127Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460282034/#460282034
+[2024-11-16T07:30:02.137Z] Error with thread 460282034, retry 2
+[2024-11-16T07:30:05.141Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460282034/#460282034
+[2024-11-16T07:30:05.151Z] Error with thread 460282034, retry 3
+[2024-11-16T07:30:08.153Z] No articles found for thread 460282034
+[2024-11-16T07:30:08.154Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460707668/#460707668
+[2024-11-16T07:30:08.164Z] Error with thread 460707668, retry 1
+[2024-11-16T07:30:11.167Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460707668/#460707668
+[2024-11-16T07:30:11.177Z] Error with thread 460707668, retry 2
+[2024-11-16T07:30:14.184Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460707668/#460707668
+[2024-11-16T07:30:14.195Z] Error with thread 460707668, retry 3
+[2024-11-16T07:30:17.200Z] No articles found for thread 460707668
+[2024-11-16T07:30:17.200Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459582261/#459582261
+[2024-11-16T07:30:17.210Z] Error with thread 459582261, retry 1
+[2024-11-16T07:30:20.214Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459582261/#459582261
+[2024-11-16T07:30:20.224Z] Error with thread 459582261, retry 2
+[2024-11-16T07:30:23.370Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459582261/#459582261
+[2024-11-16T07:30:23.381Z] Error with thread 459582261, retry 3
+[2024-11-16T07:30:26.388Z] No articles found for thread 459582261
+[2024-11-16T07:30:26.389Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462789215/#462789215
+[2024-11-16T07:30:26.399Z] Error with thread 462789215, retry 1
+[2024-11-16T07:30:29.406Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462789215/#462789215
+[2024-11-16T07:30:29.416Z] Error with thread 462789215, retry 2
+[2024-11-16T07:30:32.426Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462789215/#462789215
+[2024-11-16T07:30:32.437Z] Error with thread 462789215, retry 3
+[2024-11-16T07:30:35.445Z] No articles found for thread 462789215
+[2024-11-16T07:30:35.445Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463511337/#463511337
+[2024-11-16T07:30:35.455Z] Error with thread 463511337, retry 1
+[2024-11-16T07:30:38.459Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463511337/#463511337
+[2024-11-16T07:30:38.470Z] Error with thread 463511337, retry 2
+[2024-11-16T07:30:41.487Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463511337/#463511337
+[2024-11-16T07:30:41.497Z] Error with thread 463511337, retry 3
+[2024-11-16T07:30:44.500Z] No articles found for thread 463511337
+[2024-11-16T07:30:44.501Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461324895/#461324895
+[2024-11-16T07:30:44.511Z] Error with thread 461324895, retry 1
+[2024-11-16T07:30:47.514Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461324895/#461324895
+[2024-11-16T07:30:47.524Z] Error with thread 461324895, retry 2
+[2024-11-16T07:30:50.530Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461324895/#461324895
+[2024-11-16T07:30:50.540Z] Error with thread 461324895, retry 3
+[2024-11-16T07:30:53.549Z] No articles found for thread 461324895
+[2024-11-16T07:30:53.549Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460589005/#460589005
+[2024-11-16T07:30:53.559Z] Error with thread 460589005, retry 1
+[2024-11-16T07:30:56.560Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460589005/#460589005
+[2024-11-16T07:30:56.570Z] Error with thread 460589005, retry 2
+[2024-11-16T07:30:59.574Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460589005/#460589005
+[2024-11-16T07:30:59.585Z] Error with thread 460589005, retry 3
+[2024-11-16T07:31:02.598Z] No articles found for thread 460589005
+[2024-11-16T07:31:02.599Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460665521/#460665521
+[2024-11-16T07:31:02.608Z] Error with thread 460665521, retry 1
+[2024-11-16T07:31:05.614Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460665521/#460665521
+[2024-11-16T07:31:05.624Z] Error with thread 460665521, retry 2
+[2024-11-16T07:31:08.629Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460665521/#460665521
+[2024-11-16T07:31:08.639Z] Error with thread 460665521, retry 3
+[2024-11-16T07:31:11.644Z] No articles found for thread 460665521
+[2024-11-16T07:31:11.645Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053712/#463053712
+[2024-11-16T07:31:11.655Z] Error with thread 463053712, retry 1
+[2024-11-16T07:31:14.660Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053712/#463053712
+[2024-11-16T07:31:14.670Z] Error with thread 463053712, retry 2
+[2024-11-16T07:31:17.681Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053712/#463053712
+[2024-11-16T07:31:17.691Z] Error with thread 463053712, retry 3
+[2024-11-16T07:31:20.692Z] No articles found for thread 463053712
+[2024-11-16T07:31:20.693Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461070240/#461070240
+[2024-11-16T07:31:20.703Z] Error with thread 461070240, retry 1
+[2024-11-16T07:31:23.705Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461070240/#461070240
+[2024-11-16T07:31:23.715Z] Error with thread 461070240, retry 2
+[2024-11-16T07:31:26.721Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461070240/#461070240
+[2024-11-16T07:31:26.731Z] Error with thread 461070240, retry 3
+[2024-11-16T07:31:29.741Z] No articles found for thread 461070240
+[2024-11-16T07:31:29.741Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463481661/#463481661
+[2024-11-16T07:31:29.751Z] Error with thread 463481661, retry 1
+[2024-11-16T07:31:32.760Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463481661/#463481661
+[2024-11-16T07:31:32.771Z] Error with thread 463481661, retry 2
+[2024-11-16T07:31:35.771Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463481661/#463481661
+[2024-11-16T07:31:35.781Z] Error with thread 463481661, retry 3
+[2024-11-16T07:31:38.786Z] No articles found for thread 463481661
+[2024-11-16T07:31:38.786Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461851841/#461851841
+[2024-11-16T07:31:38.796Z] Error with thread 461851841, retry 1
+[2024-11-16T07:31:41.800Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461851841/#461851841
+[2024-11-16T07:31:41.810Z] Error with thread 461851841, retry 2
+[2024-11-16T07:31:44.814Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461851841/#461851841
+[2024-11-16T07:31:44.824Z] Error with thread 461851841, retry 3
+[2024-11-16T07:31:47.834Z] No articles found for thread 461851841
+[2024-11-16T07:31:47.835Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462010579/#462010579
+[2024-11-16T07:31:47.845Z] Error with thread 462010579, retry 1
+[2024-11-16T07:31:50.853Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462010579/#462010579
+[2024-11-16T07:31:50.863Z] Error with thread 462010579, retry 2
+[2024-11-16T07:31:53.871Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462010579/#462010579
+[2024-11-16T07:31:53.881Z] Error with thread 462010579, retry 3
+[2024-11-16T07:31:56.884Z] No articles found for thread 462010579
+[2024-11-16T07:31:56.884Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462970002/#462970002
+[2024-11-16T07:31:56.894Z] Error with thread 462970002, retry 1
+[2024-11-16T07:31:59.901Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462970002/#462970002
+[2024-11-16T07:31:59.912Z] Error with thread 462970002, retry 2
+[2024-11-16T07:32:02.928Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462970002/#462970002
+[2024-11-16T07:32:02.938Z] Error with thread 462970002, retry 3
+[2024-11-16T07:32:05.949Z] No articles found for thread 462970002
+[2024-11-16T07:32:05.949Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463843611/#463843611
+[2024-11-16T07:32:05.959Z] Error with thread 463843611, retry 1
+[2024-11-16T07:32:08.969Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463843611/#463843611
+[2024-11-16T07:32:08.979Z] Error with thread 463843611, retry 2
+[2024-11-16T07:32:11.988Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463843611/#463843611
+[2024-11-16T07:32:11.998Z] Error with thread 463843611, retry 3
+[2024-11-16T07:32:15.007Z] No articles found for thread 463843611
+[2024-11-16T07:32:15.008Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461279638/#461279638
+[2024-11-16T07:32:15.018Z] Error with thread 461279638, retry 1
+[2024-11-16T07:32:18.034Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461279638/#461279638
+[2024-11-16T07:32:18.044Z] Error with thread 461279638, retry 2
+[2024-11-16T07:32:21.048Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461279638/#461279638
+[2024-11-16T07:32:21.058Z] Error with thread 461279638, retry 3
+[2024-11-16T07:32:24.068Z] No articles found for thread 461279638
+[2024-11-16T07:32:24.069Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462526519/#462526519
+[2024-11-16T07:32:24.079Z] Error with thread 462526519, retry 1
+[2024-11-16T07:32:27.085Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462526519/#462526519
+[2024-11-16T07:32:27.095Z] Error with thread 462526519, retry 2
+[2024-11-16T07:32:30.099Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462526519/#462526519
+[2024-11-16T07:32:30.109Z] Error with thread 462526519, retry 3
+[2024-11-16T07:32:33.116Z] No articles found for thread 462526519
+[2024-11-16T07:32:33.117Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462989957/#462989957
+[2024-11-16T07:32:33.127Z] Error with thread 462989957, retry 1
+[2024-11-16T07:32:36.137Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462989957/#462989957
+[2024-11-16T07:32:36.147Z] Error with thread 462989957, retry 2
+[2024-11-16T07:32:39.155Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462989957/#462989957
+[2024-11-16T07:32:39.165Z] Error with thread 462989957, retry 3
+[2024-11-16T07:32:42.172Z] No articles found for thread 462989957
+[2024-11-16T07:32:42.173Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462426378/#462426378
+[2024-11-16T07:32:42.183Z] Error with thread 462426378, retry 1
+[2024-11-16T07:32:45.191Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462426378/#462426378
+[2024-11-16T07:32:45.201Z] Error with thread 462426378, retry 2
+[2024-11-16T07:32:48.207Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462426378/#462426378
+[2024-11-16T07:32:48.217Z] Error with thread 462426378, retry 3
+[2024-11-16T07:32:51.228Z] No articles found for thread 462426378
+[2024-11-16T07:32:51.228Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460250150/#460250150
+[2024-11-16T07:32:51.238Z] Error with thread 460250150, retry 1
+[2024-11-16T07:32:54.247Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460250150/#460250150
+[2024-11-16T07:32:54.258Z] Error with thread 460250150, retry 2
+[2024-11-16T07:32:57.263Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460250150/#460250150
+[2024-11-16T07:32:57.273Z] Error with thread 460250150, retry 3
+[2024-11-16T07:33:00.279Z] No articles found for thread 460250150
+[2024-11-16T07:33:00.280Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463677859/#463677859
+[2024-11-16T07:33:00.290Z] Error with thread 463677859, retry 1
+[2024-11-16T07:33:03.297Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463677859/#463677859
+[2024-11-16T07:33:03.306Z] Error with thread 463677859, retry 2
+[2024-11-16T07:33:06.318Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463677859/#463677859
+[2024-11-16T07:33:06.328Z] Error with thread 463677859, retry 3
+[2024-11-16T07:33:09.335Z] No articles found for thread 463677859
+[2024-11-16T07:33:09.335Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461544844/#461544844
+[2024-11-16T07:33:09.345Z] Error with thread 461544844, retry 1
+[2024-11-16T07:33:12.347Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461544844/#461544844
+[2024-11-16T07:33:12.357Z] Error with thread 461544844, retry 2
+[2024-11-16T07:33:15.364Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461544844/#461544844
+[2024-11-16T07:33:15.374Z] Error with thread 461544844, retry 3
+[2024-11-16T07:33:18.376Z] No articles found for thread 461544844
+[2024-11-16T07:33:18.377Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461171090/#461171090
+[2024-11-16T07:33:18.386Z] Error with thread 461171090, retry 1
+[2024-11-16T07:33:21.389Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461171090/#461171090
+[2024-11-16T07:33:21.399Z] Error with thread 461171090, retry 2
+[2024-11-16T07:33:24.414Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461171090/#461171090
+[2024-11-16T07:33:24.424Z] Error with thread 461171090, retry 3
+[2024-11-16T07:33:27.429Z] No articles found for thread 461171090
+[2024-11-16T07:33:27.429Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459667354/#459667354
+[2024-11-16T07:33:27.439Z] Error with thread 459667354, retry 1
+[2024-11-16T07:33:30.454Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459667354/#459667354
+[2024-11-16T07:33:30.465Z] Error with thread 459667354, retry 2
+[2024-11-16T07:33:33.470Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459667354/#459667354
+[2024-11-16T07:33:33.480Z] Error with thread 459667354, retry 3
+[2024-11-16T07:33:36.487Z] No articles found for thread 459667354
+[2024-11-16T07:33:36.488Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462445625/#462445625
+[2024-11-16T07:33:36.498Z] Error with thread 462445625, retry 1
+[2024-11-16T07:33:39.500Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462445625/#462445625
+[2024-11-16T07:33:39.510Z] Error with thread 462445625, retry 2
+[2024-11-16T07:33:42.516Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462445625/#462445625
+[2024-11-16T07:33:42.526Z] Error with thread 462445625, retry 3
+[2024-11-16T07:33:45.535Z] No articles found for thread 462445625
+[2024-11-16T07:33:45.535Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463931829/#463931829
+[2024-11-16T07:33:45.545Z] Error with thread 463931829, retry 1
+[2024-11-16T07:33:48.550Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463931829/#463931829
+[2024-11-16T07:33:48.560Z] Error with thread 463931829, retry 2
+[2024-11-16T07:33:51.565Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463931829/#463931829
+[2024-11-16T07:33:51.575Z] Error with thread 463931829, retry 3
+[2024-11-16T07:33:54.578Z] No articles found for thread 463931829
+[2024-11-16T07:33:54.579Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462998093/#462998093
+[2024-11-16T07:33:54.589Z] Error with thread 462998093, retry 1
+[2024-11-16T07:33:57.601Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462998093/#462998093
+[2024-11-16T07:33:57.611Z] Error with thread 462998093, retry 2
+[2024-11-16T07:34:00.625Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462998093/#462998093
+[2024-11-16T07:34:00.635Z] Error with thread 462998093, retry 3
+[2024-11-16T07:34:03.646Z] No articles found for thread 462998093
+[2024-11-16T07:34:03.647Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460864221/#460864221
+[2024-11-16T07:34:03.657Z] Error with thread 460864221, retry 1
+[2024-11-16T07:34:06.658Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460864221/#460864221
+[2024-11-16T07:34:06.668Z] Error with thread 460864221, retry 2
+[2024-11-16T07:34:09.677Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460864221/#460864221
+[2024-11-16T07:34:09.688Z] Error with thread 460864221, retry 3
+[2024-11-16T07:34:12.700Z] No articles found for thread 460864221
+[2024-11-16T07:34:12.701Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460414915/#460414915
+[2024-11-16T07:34:12.711Z] Error with thread 460414915, retry 1
+[2024-11-16T07:34:15.714Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460414915/#460414915
+[2024-11-16T07:34:15.724Z] Error with thread 460414915, retry 2
+[2024-11-16T07:34:18.732Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460414915/#460414915
+[2024-11-16T07:34:18.742Z] Error with thread 460414915, retry 3
+[2024-11-16T07:34:21.748Z] No articles found for thread 460414915
+[2024-11-16T07:34:21.748Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462411065/#462411065
+[2024-11-16T07:34:21.758Z] Error with thread 462411065, retry 1
+[2024-11-16T07:34:24.761Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462411065/#462411065
+[2024-11-16T07:34:24.771Z] Error with thread 462411065, retry 2
+[2024-11-16T07:34:27.771Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462411065/#462411065
+[2024-11-16T07:34:27.781Z] Error with thread 462411065, retry 3
+[2024-11-16T07:34:30.787Z] No articles found for thread 462411065
+[2024-11-16T07:34:30.787Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460777625/#460777625
+[2024-11-16T07:34:30.797Z] Error with thread 460777625, retry 1
+[2024-11-16T07:34:33.800Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460777625/#460777625
+[2024-11-16T07:34:33.810Z] Error with thread 460777625, retry 2
+[2024-11-16T07:34:36.824Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460777625/#460777625
+[2024-11-16T07:34:36.834Z] Error with thread 460777625, retry 3
+[2024-11-16T07:34:39.838Z] No articles found for thread 460777625
+[2024-11-16T07:34:39.838Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462240606/#462240606
+[2024-11-16T07:34:39.848Z] Error with thread 462240606, retry 1
+[2024-11-16T07:34:42.858Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462240606/#462240606
+[2024-11-16T07:34:42.868Z] Error with thread 462240606, retry 2
+[2024-11-16T07:34:45.885Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462240606/#462240606
+[2024-11-16T07:34:45.895Z] Error with thread 462240606, retry 3
+[2024-11-16T07:34:48.897Z] No articles found for thread 462240606
+[2024-11-16T07:34:48.897Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460411378/#460411378
+[2024-11-16T07:34:48.907Z] Error with thread 460411378, retry 1
+[2024-11-16T07:34:51.913Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460411378/#460411378
+[2024-11-16T07:34:51.923Z] Error with thread 460411378, retry 2
+[2024-11-16T07:34:54.926Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460411378/#460411378
+[2024-11-16T07:34:54.937Z] Error with thread 460411378, retry 3
+[2024-11-16T07:34:57.946Z] No articles found for thread 460411378
+[2024-11-16T07:34:57.946Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461786079/#461786079
+[2024-11-16T07:34:57.956Z] Error with thread 461786079, retry 1
+[2024-11-16T07:35:00.967Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461786079/#461786079
+[2024-11-16T07:35:00.977Z] Error with thread 461786079, retry 2
+[2024-11-16T07:35:03.984Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461786079/#461786079
+[2024-11-16T07:35:03.994Z] Error with thread 461786079, retry 3
+[2024-11-16T07:35:06.995Z] No articles found for thread 461786079
+[2024-11-16T07:35:06.996Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460213991/#460213991
+[2024-11-16T07:35:07.005Z] Error with thread 460213991, retry 1
+[2024-11-16T07:35:10.009Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460213991/#460213991
+[2024-11-16T07:35:10.019Z] Error with thread 460213991, retry 2
+[2024-11-16T07:35:13.025Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460213991/#460213991
+[2024-11-16T07:35:13.036Z] Error with thread 460213991, retry 3
+[2024-11-16T07:35:16.045Z] No articles found for thread 460213991
+[2024-11-16T07:35:16.046Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463103864/#463103864
+[2024-11-16T07:35:16.055Z] Error with thread 463103864, retry 1
+[2024-11-16T07:35:19.058Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463103864/#463103864
+[2024-11-16T07:35:19.068Z] Error with thread 463103864, retry 2
+[2024-11-16T07:35:22.081Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463103864/#463103864
+[2024-11-16T07:35:22.091Z] Error with thread 463103864, retry 3
+[2024-11-16T07:35:25.101Z] No articles found for thread 463103864
+[2024-11-16T07:35:25.101Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462233461/#462233461
+[2024-11-16T07:35:25.112Z] Error with thread 462233461, retry 1
+[2024-11-16T07:35:28.119Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462233461/#462233461
+[2024-11-16T07:35:28.130Z] Error with thread 462233461, retry 2
+[2024-11-16T07:35:31.131Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462233461/#462233461
+[2024-11-16T07:35:31.142Z] Error with thread 462233461, retry 3
+[2024-11-16T07:35:34.149Z] No articles found for thread 462233461
+[2024-11-16T07:35:34.150Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463905184/#463905184
+[2024-11-16T07:35:34.160Z] Error with thread 463905184, retry 1
+[2024-11-16T07:35:37.165Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463905184/#463905184
+[2024-11-16T07:35:37.176Z] Error with thread 463905184, retry 2
+[2024-11-16T07:35:40.185Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463905184/#463905184
+[2024-11-16T07:35:40.196Z] Error with thread 463905184, retry 3
+[2024-11-16T07:35:43.200Z] No articles found for thread 463905184
+[2024-11-16T07:35:43.201Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461565321/#461565321
+[2024-11-16T07:35:43.211Z] Error with thread 461565321, retry 1
+[2024-11-16T07:35:46.228Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461565321/#461565321
+[2024-11-16T07:35:46.237Z] Error with thread 461565321, retry 2
+[2024-11-16T07:35:49.245Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461565321/#461565321
+[2024-11-16T07:35:49.255Z] Error with thread 461565321, retry 3
+[2024-11-16T07:35:52.267Z] No articles found for thread 461565321
+[2024-11-16T07:35:52.268Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459971890/#459971890
+[2024-11-16T07:35:52.278Z] Error with thread 459971890, retry 1
+[2024-11-16T07:35:55.283Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459971890/#459971890
+[2024-11-16T07:35:55.293Z] Error with thread 459971890, retry 2
+[2024-11-16T07:35:58.295Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459971890/#459971890
+[2024-11-16T07:35:58.305Z] Error with thread 459971890, retry 3
+[2024-11-16T07:36:01.310Z] No articles found for thread 459971890
+[2024-11-16T07:36:01.310Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462973902/#462973902
+[2024-11-16T07:36:01.321Z] Error with thread 462973902, retry 1
+[2024-11-16T07:36:04.324Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462973902/#462973902
+[2024-11-16T07:36:04.335Z] Error with thread 462973902, retry 2
+[2024-11-16T07:36:07.341Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462973902/#462973902
+[2024-11-16T07:36:07.352Z] Error with thread 462973902, retry 3
+[2024-11-16T07:36:10.357Z] No articles found for thread 462973902
+[2024-11-16T07:36:10.358Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463845232/#463845232
+[2024-11-16T07:36:10.368Z] Error with thread 463845232, retry 1
+[2024-11-16T07:36:13.380Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463845232/#463845232
+[2024-11-16T07:36:13.390Z] Error with thread 463845232, retry 2
+[2024-11-16T07:36:16.392Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463845232/#463845232
+[2024-11-16T07:36:16.402Z] Error with thread 463845232, retry 3
+[2024-11-16T07:36:19.414Z] No articles found for thread 463845232
+[2024-11-16T07:36:19.414Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460134614/#460134614
+[2024-11-16T07:36:19.424Z] Error with thread 460134614, retry 1
+[2024-11-16T07:36:22.437Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460134614/#460134614
+[2024-11-16T07:36:22.447Z] Error with thread 460134614, retry 2
+[2024-11-16T07:36:25.456Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460134614/#460134614
+[2024-11-16T07:36:25.466Z] Error with thread 460134614, retry 3
+[2024-11-16T07:36:28.469Z] No articles found for thread 460134614
+[2024-11-16T07:36:28.470Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053840/#463053840
+[2024-11-16T07:36:28.480Z] Error with thread 463053840, retry 1
+[2024-11-16T07:36:31.489Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053840/#463053840
+[2024-11-16T07:36:31.499Z] Error with thread 463053840, retry 2
+[2024-11-16T07:36:34.508Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053840/#463053840
+[2024-11-16T07:36:34.518Z] Error with thread 463053840, retry 3
+[2024-11-16T07:36:37.525Z] No articles found for thread 463053840
+[2024-11-16T07:36:37.526Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460849362/#460849362
+[2024-11-16T07:36:37.536Z] Error with thread 460849362, retry 1
+[2024-11-16T07:36:40.544Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460849362/#460849362
+[2024-11-16T07:36:40.554Z] Error with thread 460849362, retry 2
+[2024-11-16T07:36:43.560Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460849362/#460849362
+[2024-11-16T07:36:43.570Z] Error with thread 460849362, retry 3
+[2024-11-16T07:36:46.581Z] No articles found for thread 460849362
+[2024-11-16T07:36:46.582Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463524185/#463524185
+[2024-11-16T07:36:46.591Z] Error with thread 463524185, retry 1
+[2024-11-16T07:36:49.599Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463524185/#463524185
+[2024-11-16T07:36:49.609Z] Error with thread 463524185, retry 2
+[2024-11-16T07:36:52.614Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463524185/#463524185
+[2024-11-16T07:36:52.625Z] Error with thread 463524185, retry 3
+[2024-11-16T07:36:55.629Z] No articles found for thread 463524185
+[2024-11-16T07:36:55.630Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461509409/#461509409
+[2024-11-16T07:36:55.640Z] Error with thread 461509409, retry 1
+[2024-11-16T07:36:58.641Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461509409/#461509409
+[2024-11-16T07:36:58.651Z] Error with thread 461509409, retry 2
+[2024-11-16T07:37:01.653Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461509409/#461509409
+[2024-11-16T07:37:01.663Z] Error with thread 461509409, retry 3
+[2024-11-16T07:37:04.670Z] No articles found for thread 461509409
+[2024-11-16T07:37:04.670Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459693460/#459693460
+[2024-11-16T07:37:04.679Z] Error with thread 459693460, retry 1
+[2024-11-16T07:37:07.693Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459693460/#459693460
+[2024-11-16T07:37:07.703Z] Error with thread 459693460, retry 2
+[2024-11-16T07:37:10.710Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459693460/#459693460
+[2024-11-16T07:37:10.721Z] Error with thread 459693460, retry 3
+[2024-11-16T07:37:13.725Z] No articles found for thread 459693460
+[2024-11-16T07:37:13.725Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461611132/#461611132
+[2024-11-16T07:37:13.735Z] Error with thread 461611132, retry 1
+[2024-11-16T07:37:16.742Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461611132/#461611132
+[2024-11-16T07:37:16.752Z] Error with thread 461611132, retry 2
+[2024-11-16T07:37:19.755Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461611132/#461611132
+[2024-11-16T07:37:19.765Z] Error with thread 461611132, retry 3
+[2024-11-16T07:37:22.767Z] No articles found for thread 461611132
+[2024-11-16T07:37:22.767Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461524518/#461524518
+[2024-11-16T07:37:22.777Z] Error with thread 461524518, retry 1
+[2024-11-16T07:37:25.782Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461524518/#461524518
+[2024-11-16T07:37:25.793Z] Error with thread 461524518, retry 2
+[2024-11-16T07:37:28.798Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461524518/#461524518
+[2024-11-16T07:37:28.808Z] Error with thread 461524518, retry 3
+[2024-11-16T07:37:31.811Z] No articles found for thread 461524518
+[2024-11-16T07:37:31.811Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460994689/#460994689
+[2024-11-16T07:37:31.821Z] Error with thread 460994689, retry 1
+[2024-11-16T07:37:34.897Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460994689/#460994689
+[2024-11-16T07:37:34.908Z] Error with thread 460994689, retry 2
+[2024-11-16T07:37:37.913Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460994689/#460994689
+[2024-11-16T07:37:37.923Z] Error with thread 460994689, retry 3
+[2024-11-16T07:37:40.939Z] No articles found for thread 460994689
+[2024-11-16T07:37:40.939Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463513384/#463513384
+[2024-11-16T07:37:40.950Z] Error with thread 463513384, retry 1
+[2024-11-16T07:37:43.952Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463513384/#463513384
+[2024-11-16T07:37:43.963Z] Error with thread 463513384, retry 2
+[2024-11-16T07:37:46.972Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463513384/#463513384
+[2024-11-16T07:37:46.980Z] Error with thread 463513384, retry 3
+[2024-11-16T07:37:50.055Z] No articles found for thread 463513384
+[2024-11-16T07:37:50.056Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462645668/#462645668
+[2024-11-16T07:37:50.065Z] Error with thread 462645668, retry 1
+[2024-11-16T07:37:53.068Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462645668/#462645668
+[2024-11-16T07:37:53.078Z] Error with thread 462645668, retry 2
+[2024-11-16T07:37:56.088Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462645668/#462645668
+[2024-11-16T07:37:56.098Z] Error with thread 462645668, retry 3
+[2024-11-16T07:37:59.106Z] No articles found for thread 462645668
+[2024-11-16T07:37:59.107Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463979905/#463979905
+[2024-11-16T07:37:59.117Z] Error with thread 463979905, retry 1
+[2024-11-16T07:38:02.122Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463979905/#463979905
+[2024-11-16T07:38:02.132Z] Error with thread 463979905, retry 2
+[2024-11-16T07:38:05.146Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463979905/#463979905
+[2024-11-16T07:38:05.156Z] Error with thread 463979905, retry 3
+[2024-11-16T07:38:08.171Z] No articles found for thread 463979905
+[2024-11-16T07:38:08.171Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463143610/#463143610
+[2024-11-16T07:38:08.181Z] Error with thread 463143610, retry 1
+[2024-11-16T07:38:11.184Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463143610/#463143610
+[2024-11-16T07:38:11.193Z] Error with thread 463143610, retry 2
+[2024-11-16T07:38:14.206Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463143610/#463143610
+[2024-11-16T07:38:14.216Z] Error with thread 463143610, retry 3
+[2024-11-16T07:38:17.221Z] No articles found for thread 463143610
+[2024-11-16T07:38:17.221Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463174731/#463174731
+[2024-11-16T07:38:17.231Z] Error with thread 463174731, retry 1
+[2024-11-16T07:38:20.232Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463174731/#463174731
+[2024-11-16T07:38:20.243Z] Error with thread 463174731, retry 2
+[2024-11-16T07:38:23.244Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463174731/#463174731
+[2024-11-16T07:38:23.253Z] Error with thread 463174731, retry 3
+[2024-11-16T07:38:26.254Z] No articles found for thread 463174731
+[2024-11-16T07:38:26.255Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461932074/#461932074
+[2024-11-16T07:38:26.265Z] Error with thread 461932074, retry 1
+[2024-11-16T07:38:29.273Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461932074/#461932074
+[2024-11-16T07:38:29.284Z] Error with thread 461932074, retry 2
+[2024-11-16T07:38:32.284Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461932074/#461932074
+[2024-11-16T07:38:32.294Z] Error with thread 461932074, retry 3
+[2024-11-16T07:38:35.305Z] No articles found for thread 461932074
+[2024-11-16T07:38:35.305Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461349053/#461349053
+[2024-11-16T07:38:35.316Z] Error with thread 461349053, retry 1
+[2024-11-16T07:38:38.327Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461349053/#461349053
+[2024-11-16T07:38:38.337Z] Error with thread 461349053, retry 2
+[2024-11-16T07:38:41.352Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461349053/#461349053
+[2024-11-16T07:38:41.363Z] Error with thread 461349053, retry 3
+[2024-11-16T07:38:44.367Z] No articles found for thread 461349053
+[2024-11-16T07:38:44.367Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460643934/#460643934
+[2024-11-16T07:38:44.377Z] Error with thread 460643934, retry 1
+[2024-11-16T07:38:47.382Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460643934/#460643934
+[2024-11-16T07:38:47.392Z] Error with thread 460643934, retry 2
+[2024-11-16T07:38:50.396Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460643934/#460643934
+[2024-11-16T07:38:50.406Z] Error with thread 460643934, retry 3
+[2024-11-16T07:38:53.411Z] No articles found for thread 460643934
+[2024-11-16T07:38:53.411Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460488726/#460488726
+[2024-11-16T07:38:53.421Z] Error with thread 460488726, retry 1
+[2024-11-16T07:38:56.430Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460488726/#460488726
+[2024-11-16T07:38:56.440Z] Error with thread 460488726, retry 2
+[2024-11-16T07:38:59.447Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460488726/#460488726
+[2024-11-16T07:38:59.458Z] Error with thread 460488726, retry 3
+[2024-11-16T07:39:02.462Z] No articles found for thread 460488726
+[2024-11-16T07:39:02.463Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463111883/#463111883
+[2024-11-16T07:39:02.473Z] Error with thread 463111883, retry 1
+[2024-11-16T07:39:05.484Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463111883/#463111883
+[2024-11-16T07:39:05.494Z] Error with thread 463111883, retry 2
+[2024-11-16T07:39:08.505Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463111883/#463111883
+[2024-11-16T07:39:08.514Z] Error with thread 463111883, retry 3
+[2024-11-16T07:39:11.518Z] No articles found for thread 463111883
+[2024-11-16T07:39:11.519Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460047395/#460047395
+[2024-11-16T07:39:11.527Z] Error with thread 460047395, retry 1
+[2024-11-16T07:39:14.542Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460047395/#460047395
+[2024-11-16T07:39:14.550Z] Error with thread 460047395, retry 2
+[2024-11-16T07:39:17.560Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460047395/#460047395
+[2024-11-16T07:39:17.569Z] Error with thread 460047395, retry 3
+[2024-11-16T07:39:20.579Z] No articles found for thread 460047395
+[2024-11-16T07:39:20.579Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463003990/#463003990
+[2024-11-16T07:39:20.589Z] Error with thread 463003990, retry 1
+[2024-11-16T07:39:23.590Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463003990/#463003990
+[2024-11-16T07:39:23.601Z] Error with thread 463003990, retry 2
+[2024-11-16T07:39:26.613Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463003990/#463003990
+[2024-11-16T07:39:26.624Z] Error with thread 463003990, retry 3
+[2024-11-16T07:39:29.628Z] No articles found for thread 463003990
+[2024-11-16T07:39:29.628Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461663314/#461663314
+[2024-11-16T07:39:29.639Z] Error with thread 461663314, retry 1
+[2024-11-16T07:39:32.640Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461663314/#461663314
+[2024-11-16T07:39:32.650Z] Error with thread 461663314, retry 2
+[2024-11-16T07:39:35.651Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461663314/#461663314
+[2024-11-16T07:39:35.660Z] Error with thread 461663314, retry 3
+[2024-11-16T07:39:38.669Z] No articles found for thread 461663314
+[2024-11-16T07:39:38.670Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462301957/#462301957
+[2024-11-16T07:39:38.681Z] Error with thread 462301957, retry 1
+[2024-11-16T07:39:41.682Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462301957/#462301957
+[2024-11-16T07:39:41.692Z] Error with thread 462301957, retry 2
+[2024-11-16T07:39:44.696Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462301957/#462301957
+[2024-11-16T07:39:44.706Z] Error with thread 462301957, retry 3
+[2024-11-16T07:39:47.714Z] No articles found for thread 462301957
+[2024-11-16T07:39:47.715Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463484661/#463484661
+[2024-11-16T07:39:47.725Z] Error with thread 463484661, retry 1
+[2024-11-16T07:39:50.729Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463484661/#463484661
+[2024-11-16T07:39:50.740Z] Error with thread 463484661, retry 2
+[2024-11-16T07:39:53.748Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463484661/#463484661
+[2024-11-16T07:39:53.756Z] Error with thread 463484661, retry 3
+[2024-11-16T07:39:56.767Z] No articles found for thread 463484661
+[2024-11-16T07:39:56.768Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462549814/#462549814
+[2024-11-16T07:39:56.776Z] Error with thread 462549814, retry 1
+[2024-11-16T07:39:59.785Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462549814/#462549814
+[2024-11-16T07:39:59.795Z] Error with thread 462549814, retry 2
+[2024-11-16T07:40:02.807Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462549814/#462549814
+[2024-11-16T07:40:02.815Z] Error with thread 462549814, retry 3
+[2024-11-16T07:40:05.826Z] No articles found for thread 462549814
+[2024-11-16T07:40:05.827Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462874085/#462874085
+[2024-11-16T07:40:05.836Z] Error with thread 462874085, retry 1
+[2024-11-16T07:40:08.842Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462874085/#462874085
+[2024-11-16T07:40:08.851Z] Error with thread 462874085, retry 2
+[2024-11-16T07:40:11.854Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462874085/#462874085
+[2024-11-16T07:40:11.864Z] Error with thread 462874085, retry 3
+[2024-11-16T07:40:14.872Z] No articles found for thread 462874085
+[2024-11-16T07:40:14.872Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462950569/#462950569
+[2024-11-16T07:40:14.882Z] Error with thread 462950569, retry 1
+[2024-11-16T07:40:17.890Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462950569/#462950569
+[2024-11-16T07:40:17.899Z] Error with thread 462950569, retry 2
+[2024-11-16T07:40:20.903Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462950569/#462950569
+[2024-11-16T07:40:20.913Z] Error with thread 462950569, retry 3
+[2024-11-16T07:40:23.923Z] No articles found for thread 462950569
+[2024-11-16T07:40:23.923Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459763628/#459763628
+[2024-11-16T07:40:23.933Z] Error with thread 459763628, retry 1
+[2024-11-16T07:40:26.938Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459763628/#459763628
+[2024-11-16T07:40:26.948Z] Error with thread 459763628, retry 2
+[2024-11-16T07:40:29.955Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459763628/#459763628
+[2024-11-16T07:40:29.967Z] Error with thread 459763628, retry 3
+[2024-11-16T09:53:28.281Z] Scraping started for processed_raw_merged_nov14.txt_part_4_split_1.txt...
+[2024-11-16T09:53:28.281Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459905164/#459905164
+[2024-11-16T09:53:39.763Z] Thread 459905164: Fetched 53 articles
+[2024-11-16T09:53:39.764Z] Saved 53 articles for thread 459905164
+[2024-11-16T09:53:39.764Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461876179/#461876179
+[2024-11-16T09:53:51.247Z] Thread 461876179: Fetched 43 articles
+[2024-11-16T09:53:51.248Z] Saved 43 articles for thread 461876179
+[2024-11-16T09:53:51.248Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462241473/#462241473
+[2024-11-16T09:54:02.572Z] Thread 462241473: Fetched 9 articles
+[2024-11-16T09:54:02.572Z] Saved 9 articles for thread 462241473
+[2024-11-16T09:54:02.573Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462404919/#462404919
+[2024-11-16T09:54:14.134Z] Thread 462404919: Fetched 208 articles
+[2024-11-16T09:54:14.135Z] Saved 208 articles for thread 462404919
+[2024-11-16T09:54:14.135Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462046692/#462046692
+[2024-11-16T09:54:26.261Z] Thread 462046692: Fetched 33 articles
+[2024-11-16T09:54:26.261Z] Saved 33 articles for thread 462046692
+[2024-11-16T09:54:26.262Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463023436/#463023436
+[2024-11-16T09:54:37.835Z] Thread 463023436: Fetched 104 articles
+[2024-11-16T09:54:37.835Z] Saved 104 articles for thread 463023436
+[2024-11-16T09:54:37.835Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460906497/#460906497
+[2024-11-16T09:54:49.258Z] Thread 460906497: Fetched 169 articles
+[2024-11-16T09:54:49.258Z] Saved 169 articles for thread 460906497
+[2024-11-16T09:54:49.258Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461925394/#461925394
+[2024-11-16T09:55:00.682Z] Thread 461925394: Fetched 48 articles
+[2024-11-16T09:55:00.682Z] Saved 48 articles for thread 461925394
+[2024-11-16T09:55:00.683Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460566932/#460566932
+[2024-11-16T09:55:12.544Z] Thread 460566932: Fetched 281 articles
+[2024-11-16T09:55:12.544Z] Saved 281 articles for thread 460566932
+[2024-11-16T09:55:12.544Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461545597/#461545597
+[2024-11-16T09:55:24.470Z] Thread 461545597: Fetched 84 articles
+[2024-11-16T09:55:24.470Z] Saved 84 articles for thread 461545597
+[2024-11-16T09:55:24.470Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462879916/#462879916
+[2024-11-16T09:55:36.209Z] Thread 462879916: Fetched 12 articles
+[2024-11-16T09:55:36.209Z] Saved 12 articles for thread 462879916
+[2024-11-16T09:55:36.209Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461820205/#461820205
+[2024-11-16T09:55:47.869Z] Thread 461820205: Fetched 261 articles
+[2024-11-16T09:55:47.870Z] Saved 261 articles for thread 461820205
+[2024-11-16T09:55:47.870Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460647414/#460647414
+[2024-11-16T09:55:59.401Z] Thread 460647414: Fetched 109 articles
+[2024-11-16T09:55:59.401Z] Saved 109 articles for thread 460647414
+[2024-11-16T09:55:59.402Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463173549/#463173549
+[2024-11-16T09:56:11.226Z] Thread 463173549: Fetched 327 articles
+[2024-11-16T09:56:11.227Z] Saved 327 articles for thread 463173549
+[2024-11-16T09:56:11.227Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460262401/#460262401
+[2024-11-16T09:56:23.013Z] Thread 460262401: Fetched 224 articles
+[2024-11-16T09:56:23.013Z] Saved 224 articles for thread 460262401
+[2024-11-16T09:56:23.014Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461177897/#461177897
+[2024-11-16T09:56:34.693Z] Thread 461177897: Fetched 97 articles
+[2024-11-16T09:56:34.694Z] Saved 97 articles for thread 461177897
+[2024-11-16T09:56:34.694Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461800938/#461800938
+[2024-11-16T09:56:46.535Z] Thread 461800938: Fetched 26 articles
+[2024-11-16T09:56:46.535Z] Saved 26 articles for thread 461800938
+[2024-11-16T09:56:46.536Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463184665/#463184665
+[2024-11-16T09:56:58.321Z] Thread 463184665: Fetched 326 articles
+[2024-11-16T09:56:58.322Z] Saved 326 articles for thread 463184665
+[2024-11-16T09:56:58.322Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463500700/#463500700
+[2024-11-16T09:57:10.077Z] Thread 463500700: Fetched 87 articles
+[2024-11-16T09:57:10.077Z] Saved 87 articles for thread 463500700
+[2024-11-16T09:57:10.078Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460461343/#460461343
+[2024-11-16T09:57:22.101Z] Thread 460461343: Fetched 57 articles
+[2024-11-16T09:57:22.101Z] Saved 57 articles for thread 460461343
+[2024-11-16T09:57:22.102Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460712971/#460712971
+[2024-11-16T09:57:33.858Z] Thread 460712971: Fetched 309 articles
+[2024-11-16T09:57:33.858Z] Saved 309 articles for thread 460712971
+[2024-11-16T09:57:33.858Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463161081/#463161081
+[2024-11-16T09:57:45.272Z] Thread 463161081: Fetched 12 articles
+[2024-11-16T09:57:45.272Z] Saved 12 articles for thread 463161081
+[2024-11-16T09:57:45.273Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460032956/#460032956
+[2024-11-16T09:57:56.852Z] Thread 460032956: Fetched 159 articles
+[2024-11-16T09:57:56.852Z] Saved 159 articles for thread 460032956
+[2024-11-16T09:57:56.852Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463928795/#463928795
+[2024-11-16T09:58:08.689Z] Thread 463928795: Fetched 335 articles
+[2024-11-16T09:58:08.690Z] Saved 335 articles for thread 463928795
+[2024-11-16T09:58:08.690Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460396248/#460396248
+[2024-11-16T09:58:20.552Z] Thread 460396248: Fetched 165 articles
+[2024-11-16T09:58:20.552Z] Saved 165 articles for thread 460396248
+[2024-11-16T09:58:20.552Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461472988/#461472988
+[2024-11-16T09:58:32.265Z] Thread 461472988: Fetched 247 articles
+[2024-11-16T09:58:32.265Z] Saved 247 articles for thread 461472988
+[2024-11-16T09:58:32.265Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463059601/#463059601
+[2024-11-16T09:58:43.588Z] Thread 463059601: Fetched 4 articles
+[2024-11-16T09:58:43.588Z] Saved 4 articles for thread 463059601
+[2024-11-16T09:58:43.589Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461385908/#461385908
+[2024-11-16T09:58:55.117Z] Thread 461385908: Fetched 75 articles
+[2024-11-16T09:58:55.118Z] Saved 75 articles for thread 461385908
+[2024-11-16T09:58:55.118Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461464929/#461464929
+[2024-11-16T09:59:06.906Z] Thread 461464929: Fetched 136 articles
+[2024-11-16T09:59:06.906Z] Saved 136 articles for thread 461464929
+[2024-11-16T09:59:06.907Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461758944/#461758944
+[2024-11-16T09:59:19.175Z] Thread 461758944: Fetched 331 articles
+[2024-11-16T09:59:19.175Z] Saved 331 articles for thread 461758944
+[2024-11-16T09:59:19.176Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460770098/#460770098
+[2024-11-16T09:59:31.299Z] Thread 460770098: Fetched 328 articles
+[2024-11-16T09:59:31.300Z] Saved 328 articles for thread 460770098
+[2024-11-16T09:59:31.300Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463347947/#463347947
+[2024-11-16T09:59:43.027Z] Thread 463347947: Fetched 362 articles
+[2024-11-16T09:59:43.028Z] Saved 362 articles for thread 463347947
+[2024-11-16T09:59:43.028Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460939679/#460939679
+[2024-11-16T09:59:54.156Z] Thread 460939679: Fetched 4 articles
+[2024-11-16T09:59:54.156Z] Saved 4 articles for thread 460939679
+[2024-11-16T09:59:54.156Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460045700/#460045700
+[2024-11-16T10:00:06.112Z] Thread 460045700: Fetched 307 articles
+[2024-11-16T10:00:06.113Z] Saved 307 articles for thread 460045700
+[2024-11-16T10:00:06.113Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460633910/#460633910
+[2024-11-16T10:00:17.658Z] Thread 460633910: Fetched 213 articles
+[2024-11-16T10:00:17.659Z] Saved 213 articles for thread 460633910
+[2024-11-16T10:00:17.659Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462256389/#462256389
+[2024-11-16T10:00:29.232Z] Thread 462256389: Fetched 2 articles
+[2024-11-16T10:00:29.233Z] Saved 2 articles for thread 462256389
+[2024-11-16T10:00:29.233Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463356930/#463356930
+[2024-11-16T10:00:40.648Z] Thread 463356930: Fetched 25 articles
+[2024-11-16T10:00:40.648Z] Saved 25 articles for thread 463356930
+[2024-11-16T10:00:40.648Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463963849/#463963849
+[2024-11-16T10:00:52.837Z] Thread 463963849: Fetched 319 articles
+[2024-11-16T10:00:52.837Z] Saved 319 articles for thread 463963849
+[2024-11-16T10:00:52.837Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460388202/#460388202
+[2024-11-16T10:01:04.531Z] Thread 460388202: Fetched 11 articles
+[2024-11-16T10:01:04.531Z] Saved 11 articles for thread 460388202
+[2024-11-16T10:01:04.531Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463397768/#463397768
+[2024-11-16T10:01:16.114Z] Thread 463397768: Fetched 141 articles
+[2024-11-16T10:01:16.114Z] Saved 141 articles for thread 463397768
+[2024-11-16T10:01:16.115Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460282034/#460282034
+[2024-11-16T10:01:27.705Z] Thread 460282034: Fetched 225 articles
+[2024-11-16T10:01:27.706Z] Saved 225 articles for thread 460282034
+[2024-11-16T10:01:27.706Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460707668/#460707668
+[2024-11-16T10:01:39.208Z] Thread 460707668: Fetched 38 articles
+[2024-11-16T10:01:39.209Z] Saved 38 articles for thread 460707668
+[2024-11-16T10:01:39.209Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459582261/#459582261
+[2024-11-16T10:01:50.442Z] Thread 459582261: Fetched 37 articles
+[2024-11-16T10:01:50.442Z] Saved 37 articles for thread 459582261
+[2024-11-16T10:01:50.443Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462789215/#462789215
+[2024-11-16T10:02:02.234Z] Thread 462789215: Fetched 335 articles
+[2024-11-16T10:02:02.235Z] Saved 335 articles for thread 462789215
+[2024-11-16T10:02:02.235Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463511337/#463511337
+[2024-11-16T10:02:13.929Z] Thread 463511337: Fetched 1 articles
+[2024-11-16T10:02:13.929Z] Saved 1 articles for thread 463511337
+[2024-11-16T10:02:13.929Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461324895/#461324895
+[2024-11-16T10:02:25.610Z] Thread 461324895: Fetched 300 articles
+[2024-11-16T10:02:25.610Z] Saved 300 articles for thread 461324895
+[2024-11-16T10:02:25.610Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460589005/#460589005
+[2024-11-16T10:02:37.214Z] Thread 460589005: Fetched 34 articles
+[2024-11-16T10:02:37.214Z] Saved 34 articles for thread 460589005
+[2024-11-16T10:02:37.214Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460665521/#460665521
+[2024-11-16T10:02:48.929Z] Thread 460665521: Fetched 307 articles
+[2024-11-16T10:02:48.929Z] Saved 307 articles for thread 460665521
+[2024-11-16T10:02:48.929Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053712/#463053712
+[2024-11-16T10:03:00.341Z] Thread 463053712: Fetched 37 articles
+[2024-11-16T10:03:00.342Z] Saved 37 articles for thread 463053712
+[2024-11-16T10:03:00.342Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461070240/#461070240
+[2024-11-16T10:03:11.904Z] Thread 461070240: Fetched 15 articles
+[2024-11-16T10:03:11.904Z] Saved 15 articles for thread 461070240
+[2024-11-16T10:03:11.904Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463481661/#463481661
+[2024-11-16T10:03:23.506Z] Thread 463481661: Fetched 32 articles
+[2024-11-16T10:03:23.506Z] Saved 32 articles for thread 463481661
+[2024-11-16T10:03:23.507Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461851841/#461851841
+[2024-11-16T10:03:35.067Z] Thread 461851841: Fetched 3 articles
+[2024-11-16T10:03:35.067Z] Saved 3 articles for thread 461851841
+[2024-11-16T10:03:35.067Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462010579/#462010579
+[2024-11-16T10:03:46.416Z] Thread 462010579: Fetched 41 articles
+[2024-11-16T10:03:46.416Z] Saved 41 articles for thread 462010579
+[2024-11-16T10:03:46.416Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462970002/#462970002
+[2024-11-16T10:03:58.576Z] Thread 462970002: Fetched 282 articles
+[2024-11-16T10:03:58.576Z] Saved 282 articles for thread 462970002
+[2024-11-16T10:03:58.576Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463843611/#463843611
+[2024-11-16T10:04:09.987Z] Thread 463843611: Fetched 68 articles
+[2024-11-16T10:04:09.988Z] Saved 68 articles for thread 463843611
+[2024-11-16T10:04:09.988Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461279638/#461279638
+[2024-11-16T10:04:21.750Z] Thread 461279638: Fetched 206 articles
+[2024-11-16T10:04:21.751Z] Saved 206 articles for thread 461279638
+[2024-11-16T10:04:21.751Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462526519/#462526519
+[2024-11-16T10:04:33.620Z] Thread 462526519: Fetched 333 articles
+[2024-11-16T10:04:33.620Z] Saved 333 articles for thread 462526519
+[2024-11-16T10:04:33.620Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462989957/#462989957
+[2024-11-16T10:04:45.496Z] Thread 462989957: Fetched 312 articles
+[2024-11-16T10:04:45.497Z] Saved 312 articles for thread 462989957
+[2024-11-16T10:04:45.497Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462426378/#462426378
+[2024-11-16T10:04:57.447Z] Thread 462426378: Fetched 161 articles
+[2024-11-16T10:04:57.448Z] Saved 161 articles for thread 462426378
+[2024-11-16T10:04:57.448Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460250150/#460250150
+[2024-11-16T10:05:09.062Z] Thread 460250150: Fetched 281 articles
+[2024-11-16T10:05:09.062Z] Saved 281 articles for thread 460250150
+[2024-11-16T10:05:09.063Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463677859/#463677859
+[2024-11-16T10:05:20.844Z] Thread 463677859: Fetched 319 articles
+[2024-11-16T10:05:20.844Z] Saved 319 articles for thread 463677859
+[2024-11-16T10:05:20.845Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461544844/#461544844
+[2024-11-16T10:05:32.629Z] Thread 461544844: Fetched 318 articles
+[2024-11-16T10:05:32.630Z] Saved 318 articles for thread 461544844
+[2024-11-16T10:05:32.630Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461171090/#461171090
+[2024-11-16T10:05:44.120Z] Thread 461171090: Fetched 4 articles
+[2024-11-16T10:05:44.121Z] Saved 4 articles for thread 461171090
+[2024-11-16T10:05:44.121Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459667354/#459667354
+[2024-11-16T10:05:56.079Z] Thread 459667354: Fetched 353 articles
+[2024-11-16T10:05:56.079Z] Saved 353 articles for thread 459667354
+[2024-11-16T10:05:56.079Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462445625/#462445625
+[2024-11-16T10:06:07.827Z] Thread 462445625: Fetched 304 articles
+[2024-11-16T10:06:07.827Z] Saved 304 articles for thread 462445625
+[2024-11-16T10:06:07.827Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463931829/#463931829
+[2024-11-16T10:06:19.259Z] Thread 463931829: Fetched 32 articles
+[2024-11-16T10:06:19.259Z] Saved 32 articles for thread 463931829
+[2024-11-16T10:06:19.260Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462998093/#462998093
+[2024-11-16T10:06:31.324Z] Thread 462998093: Fetched 330 articles
+[2024-11-16T10:06:31.324Z] Saved 330 articles for thread 462998093
+[2024-11-16T10:06:31.324Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460864221/#460864221
+[2024-11-16T10:06:42.801Z] Thread 460864221: Fetched 96 articles
+[2024-11-16T10:06:42.801Z] Saved 96 articles for thread 460864221
+[2024-11-16T10:06:42.801Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460414915/#460414915
+[2024-11-16T10:06:54.110Z] Thread 460414915: Fetched 88 articles
+[2024-11-16T10:06:54.110Z] Saved 88 articles for thread 460414915
+[2024-11-16T10:06:54.110Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462411065/#462411065
+[2024-11-16T10:07:05.759Z] Thread 462411065: Fetched 336 articles
+[2024-11-16T10:07:05.760Z] Saved 336 articles for thread 462411065
+[2024-11-16T10:07:05.760Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460777625/#460777625
+[2024-11-16T10:07:17.178Z] Thread 460777625: Fetched 61 articles
+[2024-11-16T10:07:17.179Z] Saved 61 articles for thread 460777625
+[2024-11-16T10:07:17.179Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462240606/#462240606
+[2024-11-16T10:07:28.684Z] Thread 462240606: Fetched 1 articles
+[2024-11-16T10:07:28.684Z] Saved 1 articles for thread 462240606
+[2024-11-16T10:07:28.684Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460411378/#460411378
+[2024-11-16T10:07:40.419Z] Thread 460411378: Fetched 310 articles
+[2024-11-16T10:07:40.420Z] Saved 310 articles for thread 460411378
+[2024-11-16T10:07:40.420Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461786079/#461786079
+[2024-11-16T10:07:52.114Z] Thread 461786079: Fetched 126 articles
+[2024-11-16T10:07:52.115Z] Saved 126 articles for thread 461786079
+[2024-11-16T10:07:52.115Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460213991/#460213991
+[2024-11-16T10:08:03.833Z] Thread 460213991: Fetched 155 articles
+[2024-11-16T10:08:03.833Z] Saved 155 articles for thread 460213991
+[2024-11-16T10:08:03.833Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463103864/#463103864
+[2024-11-16T10:08:15.188Z] Thread 463103864: Fetched 134 articles
+[2024-11-16T10:08:15.188Z] Saved 134 articles for thread 463103864
+[2024-11-16T10:08:15.188Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462233461/#462233461
+[2024-11-16T10:08:26.852Z] Thread 462233461: Fetched 305 articles
+[2024-11-16T10:08:26.852Z] Saved 305 articles for thread 462233461
+[2024-11-16T10:08:26.852Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463905184/#463905184
+[2024-11-16T10:08:38.366Z] Thread 463905184: Fetched 167 articles
+[2024-11-16T10:08:38.367Z] Saved 167 articles for thread 463905184
+[2024-11-16T10:08:38.367Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461565321/#461565321
+[2024-11-16T10:08:50.030Z] Thread 461565321: Fetched 156 articles
+[2024-11-16T10:08:50.030Z] Saved 156 articles for thread 461565321
+[2024-11-16T10:08:50.030Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459971890/#459971890
+[2024-11-16T10:09:01.772Z] Thread 459971890: Fetched 33 articles
+[2024-11-16T10:09:01.772Z] Saved 33 articles for thread 459971890
+[2024-11-16T10:09:01.773Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462973902/#462973902
+[2024-11-16T10:09:13.270Z] Thread 462973902: Fetched 62 articles
+[2024-11-16T10:09:13.271Z] Saved 62 articles for thread 462973902
+[2024-11-16T10:09:13.271Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463845232/#463845232
+[2024-11-16T10:09:25.069Z] Thread 463845232: Fetched 305 articles
+[2024-11-16T10:09:25.069Z] Saved 305 articles for thread 463845232
+[2024-11-16T10:09:25.070Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460134614/#460134614
+[2024-11-16T10:09:37.347Z] Thread 460134614: Fetched 286 articles
+[2024-11-16T10:09:37.348Z] Saved 286 articles for thread 460134614
+[2024-11-16T10:09:37.348Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463053840/#463053840
+[2024-11-16T10:09:49.203Z] Thread 463053840: Fetched 313 articles
+[2024-11-16T10:09:49.203Z] Saved 313 articles for thread 463053840
+[2024-11-16T10:09:49.204Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460849362/#460849362
+[2024-11-16T10:10:00.644Z] Thread 460849362: Fetched 192 articles
+[2024-11-16T10:10:00.644Z] Saved 192 articles for thread 460849362
+[2024-11-16T10:10:00.644Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463524185/#463524185
+[2024-11-16T10:10:12.125Z] Thread 463524185: Fetched 103 articles
+[2024-11-16T10:10:12.125Z] Saved 103 articles for thread 463524185
+[2024-11-16T10:10:12.125Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461509409/#461509409
+[2024-11-16T10:10:23.524Z] Thread 461509409: Fetched 55 articles
+[2024-11-16T10:10:23.524Z] Saved 55 articles for thread 461509409
+[2024-11-16T10:10:23.525Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459693460/#459693460
+[2024-11-16T10:10:35.460Z] Thread 459693460: Fetched 349 articles
+[2024-11-16T10:10:35.460Z] Saved 349 articles for thread 459693460
+[2024-11-16T10:10:35.460Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461611132/#461611132
+[2024-11-16T10:10:47.061Z] Thread 461611132: Fetched 3 articles
+[2024-11-16T10:10:47.062Z] Saved 3 articles for thread 461611132
+[2024-11-16T10:10:47.062Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461524518/#461524518
+[2024-11-16T10:10:59.154Z] Thread 461524518: Fetched 349 articles
+[2024-11-16T10:10:59.155Z] Saved 349 articles for thread 461524518
+[2024-11-16T10:10:59.155Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460994689/#460994689
+[2024-11-16T10:11:11.395Z] Thread 460994689: Fetched 72 articles
+[2024-11-16T10:11:11.396Z] Saved 72 articles for thread 460994689
+[2024-11-16T10:11:11.396Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463513384/#463513384
+[2024-11-16T10:11:22.929Z] Thread 463513384: Fetched 255 articles
+[2024-11-16T10:11:22.929Z] Saved 255 articles for thread 463513384
+[2024-11-16T10:11:22.929Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462645668/#462645668
+[2024-11-16T10:11:34.370Z] Thread 462645668: Fetched 35 articles
+[2024-11-16T10:11:34.371Z] Saved 35 articles for thread 462645668
+[2024-11-16T10:11:34.371Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463979905/#463979905
+[2024-11-16T10:11:46.243Z] Thread 463979905: Fetched 265 articles
+[2024-11-16T10:11:46.243Z] Saved 265 articles for thread 463979905
+[2024-11-16T10:11:46.244Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463143610/#463143610
+[2024-11-16T10:11:57.705Z] Thread 463143610: Fetched 65 articles
+[2024-11-16T10:11:57.706Z] Saved 65 articles for thread 463143610
+[2024-11-16T10:11:57.706Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463174731/#463174731
+[2024-11-16T10:12:10.007Z] Thread 463174731: Fetched 321 articles
+[2024-11-16T10:12:10.007Z] Saved 321 articles for thread 463174731
+[2024-11-16T10:12:10.007Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461932074/#461932074
+[2024-11-16T10:12:21.886Z] Thread 461932074: Fetched 467 articles
+[2024-11-16T10:12:21.886Z] Saved 467 articles for thread 461932074
+[2024-11-16T10:12:21.887Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461349053/#461349053
+[2024-11-16T10:12:33.232Z] Thread 461349053: Fetched 2 articles
+[2024-11-16T10:12:33.233Z] Saved 2 articles for thread 461349053
+[2024-11-16T10:12:33.233Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460643934/#460643934
+[2024-11-16T10:12:44.873Z] Thread 460643934: Fetched 16 articles
+[2024-11-16T10:12:44.873Z] Saved 16 articles for thread 460643934
+[2024-11-16T10:12:44.873Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460488726/#460488726
+[2024-11-16T10:12:56.302Z] Thread 460488726: Fetched 18 articles
+[2024-11-16T10:12:56.302Z] Saved 18 articles for thread 460488726
+[2024-11-16T10:12:56.303Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463111883/#463111883
+[2024-11-16T10:13:07.885Z] Thread 463111883: Fetched 31 articles
+[2024-11-16T10:13:07.885Z] Saved 31 articles for thread 463111883
+[2024-11-16T10:13:07.885Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460047395/#460047395
+[2024-11-16T10:13:19.531Z] Thread 460047395: Fetched 143 articles
+[2024-11-16T10:13:19.531Z] Saved 143 articles for thread 460047395
+[2024-11-16T10:13:19.531Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463003990/#463003990
+[2024-11-16T10:13:31.104Z] Thread 463003990: Fetched 24 articles
+[2024-11-16T10:13:31.105Z] Saved 24 articles for thread 463003990
+[2024-11-16T10:13:31.105Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461663314/#461663314
+[2024-11-16T10:13:42.739Z] Thread 461663314: Fetched 178 articles
+[2024-11-16T10:13:42.739Z] Saved 178 articles for thread 461663314
+[2024-11-16T10:13:42.740Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462301957/#462301957
+[2024-11-16T10:13:54.444Z] Thread 462301957: Fetched 35 articles
+[2024-11-16T10:13:54.445Z] Saved 35 articles for thread 462301957
+[2024-11-16T10:13:54.445Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463484661/#463484661
+[2024-11-16T10:14:06.187Z] Thread 463484661: Fetched 326 articles
+[2024-11-16T10:14:06.187Z] Saved 326 articles for thread 463484661
+[2024-11-16T10:14:06.188Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462549814/#462549814
+[2024-11-16T10:14:18.043Z] Thread 462549814: Fetched 307 articles
+[2024-11-16T10:14:18.043Z] Saved 307 articles for thread 462549814
+[2024-11-16T10:14:18.043Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462874085/#462874085
+[2024-11-16T10:14:29.861Z] Thread 462874085: Fetched 302 articles
+[2024-11-16T10:14:29.861Z] Saved 302 articles for thread 462874085
+[2024-11-16T10:14:29.862Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462950569/#462950569
+[2024-11-16T10:14:41.756Z] Thread 462950569: Fetched 18 articles
+[2024-11-16T10:14:41.756Z] Saved 18 articles for thread 462950569
+[2024-11-16T10:14:41.757Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459763628/#459763628
+[2024-11-16T10:14:53.226Z] Thread 459763628: Fetched 28 articles
+[2024-11-16T10:14:53.226Z] Saved 28 articles for thread 459763628
+[2024-11-16T10:14:53.226Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462917024/#462917024
+[2024-11-16T10:15:05.408Z] Thread 462917024: Fetched 367 articles
+[2024-11-16T10:15:05.408Z] Saved 367 articles for thread 462917024
+[2024-11-16T10:15:05.408Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461259131/#461259131
+[2024-11-16T10:15:16.878Z] Thread 461259131: Fetched 123 articles
+[2024-11-16T10:15:16.878Z] Saved 123 articles for thread 461259131
+[2024-11-16T10:15:16.878Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463302916/#463302916
+[2024-11-16T10:15:28.653Z] Thread 463302916: Fetched 18 articles
+[2024-11-16T10:15:28.653Z] Saved 18 articles for thread 463302916
+[2024-11-16T10:15:28.654Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461850340/#461850340
+[2024-11-16T10:15:40.058Z] Thread 461850340: Fetched 15 articles
+[2024-11-16T10:15:40.058Z] Saved 15 articles for thread 461850340
+[2024-11-16T10:15:40.059Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462477802/#462477802
+[2024-11-16T10:15:52.051Z] Thread 462477802: Fetched 397 articles
+[2024-11-16T10:15:52.051Z] Saved 397 articles for thread 462477802
+[2024-11-16T10:15:52.051Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460861166/#460861166
+[2024-11-16T10:16:03.450Z] Thread 460861166: Fetched 44 articles
+[2024-11-16T10:16:03.450Z] Saved 44 articles for thread 460861166
+[2024-11-16T10:16:03.451Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462536438/#462536438
+[2024-11-16T10:16:15.269Z] Thread 462536438: Fetched 316 articles
+[2024-11-16T10:16:15.269Z] Saved 316 articles for thread 462536438
+[2024-11-16T10:16:15.269Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463673838/#463673838
+[2024-11-16T10:16:26.737Z] Thread 463673838: Fetched 156 articles
+[2024-11-16T10:16:26.737Z] Saved 156 articles for thread 463673838
+[2024-11-16T10:16:26.737Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460778450/#460778450
+[2024-11-16T10:16:38.763Z] Thread 460778450: Fetched 309 articles
+[2024-11-16T10:16:38.763Z] Saved 309 articles for thread 460778450
+[2024-11-16T10:16:38.763Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462843752/#462843752
+[2024-11-16T10:16:50.495Z] Thread 462843752: Fetched 47 articles
+[2024-11-16T10:16:50.496Z] Saved 47 articles for thread 462843752
+[2024-11-16T10:16:50.496Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460718379/#460718379
+[2024-11-16T10:17:02.168Z] Thread 460718379: Fetched 317 articles
+[2024-11-16T10:17:02.168Z] Saved 317 articles for thread 460718379
+[2024-11-16T10:17:02.168Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460544872/#460544872
+[2024-11-16T10:17:13.593Z] Thread 460544872: Fetched 80 articles
+[2024-11-16T10:17:13.593Z] Saved 80 articles for thread 460544872
+[2024-11-16T10:17:13.594Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461425610/#461425610
+[2024-11-16T10:17:25.330Z] Thread 461425610: Fetched 391 articles
+[2024-11-16T10:17:25.330Z] Saved 391 articles for thread 461425610
+[2024-11-16T10:17:25.331Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460934443/#460934443
+[2024-11-16T10:17:37.079Z] Thread 460934443: Fetched 338 articles
+[2024-11-16T10:17:37.080Z] Saved 338 articles for thread 460934443
+[2024-11-16T10:17:37.080Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460655178/#460655178
+[2024-11-16T10:17:49.052Z] Thread 460655178: Fetched 308 articles
+[2024-11-16T10:17:49.053Z] Saved 308 articles for thread 460655178
+[2024-11-16T10:17:49.053Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461558916/#461558916
+[2024-11-16T10:18:00.903Z] Thread 461558916: Fetched 347 articles
+[2024-11-16T10:18:00.903Z] Saved 347 articles for thread 461558916
+[2024-11-16T10:18:00.903Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461700096/#461700096
+[2024-11-16T10:18:12.271Z] Thread 461700096: Fetched 151 articles
+[2024-11-16T10:18:12.271Z] Saved 151 articles for thread 461700096
+[2024-11-16T10:18:12.271Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460165739/#460165739
+[2024-11-16T10:18:23.585Z] Thread 460165739: Fetched 79 articles
+[2024-11-16T10:18:23.585Z] Saved 79 articles for thread 460165739
+[2024-11-16T10:18:23.585Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463770150/#463770150
+[2024-11-16T10:18:35.387Z] Thread 463770150: Fetched 348 articles
+[2024-11-16T10:18:35.388Z] Saved 348 articles for thread 463770150
+[2024-11-16T10:18:35.388Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461873819/#461873819
+[2024-11-16T10:18:47.043Z] Thread 461873819: Fetched 26 articles
+[2024-11-16T10:18:47.044Z] Saved 26 articles for thread 461873819
+[2024-11-16T10:18:47.044Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459673935/#459673935
+[2024-11-16T10:18:59.345Z] Thread 459673935: Fetched 168 articles
+[2024-11-16T10:18:59.346Z] Saved 168 articles for thread 459673935
+[2024-11-16T10:18:59.346Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461608799/#461608799
+[2024-11-16T10:19:11.142Z] Thread 461608799: Fetched 311 articles
+[2024-11-16T10:19:11.143Z] Saved 311 articles for thread 461608799
+[2024-11-16T10:19:11.143Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462376417/#462376417
+[2024-11-16T10:19:23.485Z] Thread 462376417: Fetched 76 articles
+[2024-11-16T10:19:23.485Z] Saved 76 articles for thread 462376417
+[2024-11-16T10:19:23.485Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463686661/#463686661
+[2024-11-16T10:19:35.095Z] Thread 463686661: Fetched 246 articles
+[2024-11-16T10:19:35.096Z] Saved 246 articles for thread 463686661
+[2024-11-16T10:19:35.096Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462723340/#462723340
+[2024-11-16T10:19:46.869Z] Thread 462723340: Fetched 328 articles
+[2024-11-16T10:19:46.869Z] Saved 328 articles for thread 462723340
+[2024-11-16T10:19:46.869Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461398681/#461398681
+[2024-11-16T10:19:58.583Z] Thread 461398681: Fetched 318 articles
+[2024-11-16T10:19:58.583Z] Saved 318 articles for thread 461398681
+[2024-11-16T10:19:58.583Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461805526/#461805526
+[2024-11-16T10:20:10.336Z] Thread 461805526: Fetched 313 articles
+[2024-11-16T10:20:10.336Z] Saved 313 articles for thread 461805526
+[2024-11-16T10:20:10.337Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463346332/#463346332
+[2024-11-16T10:20:22.195Z] Thread 463346332: Fetched 316 articles
+[2024-11-16T10:20:22.195Z] Saved 316 articles for thread 463346332
+[2024-11-16T10:20:22.196Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462616651/#462616651
+[2024-11-16T10:20:33.859Z] Thread 462616651: Fetched 299 articles
+[2024-11-16T10:20:33.860Z] Saved 299 articles for thread 462616651
+[2024-11-16T10:20:33.860Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460211671/#460211671
+[2024-11-16T10:20:45.349Z] Thread 460211671: Fetched 137 articles
+[2024-11-16T10:20:45.349Z] Saved 137 articles for thread 460211671
+[2024-11-16T10:20:45.350Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463761617/#463761617
+[2024-11-16T10:20:57.082Z] Thread 463761617: Fetched 313 articles
+[2024-11-16T10:20:57.083Z] Saved 313 articles for thread 463761617
+[2024-11-16T10:20:57.083Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462998429/#462998429
+[2024-11-16T10:21:08.527Z] Thread 462998429: Fetched 80 articles
+[2024-11-16T10:21:08.528Z] Saved 80 articles for thread 462998429
+[2024-11-16T10:21:08.528Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460472119/#460472119
+[2024-11-16T10:21:20.252Z] Thread 460472119: Fetched 345 articles
+[2024-11-16T10:21:20.252Z] Saved 345 articles for thread 460472119
+[2024-11-16T10:21:20.252Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460471541/#460471541
+[2024-11-16T10:21:31.559Z] Thread 460471541: Fetched 4 articles
+[2024-11-16T10:21:31.560Z] Saved 4 articles for thread 460471541
+[2024-11-16T10:21:31.560Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463041959/#463041959
+[2024-11-16T10:21:43.034Z] Thread 463041959: Fetched 239 articles
+[2024-11-16T10:21:43.034Z] Saved 239 articles for thread 463041959
+[2024-11-16T10:21:43.034Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463860740/#463860740
+[2024-11-16T10:21:54.607Z] Thread 463860740: Fetched 9 articles
+[2024-11-16T10:21:54.607Z] Saved 9 articles for thread 463860740
+[2024-11-16T10:21:54.607Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461641920/#461641920
+[2024-11-16T10:22:06.346Z] Thread 461641920: Fetched 342 articles
+[2024-11-16T10:22:06.346Z] Saved 342 articles for thread 461641920
+[2024-11-16T10:22:06.347Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463657439/#463657439
+[2024-11-16T10:22:17.819Z] Thread 463657439: Fetched 37 articles
+[2024-11-16T10:22:17.819Z] Saved 37 articles for thread 463657439
+[2024-11-16T10:22:17.820Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461447906/#461447906
+[2024-11-16T10:22:29.630Z] Thread 461447906: Fetched 334 articles
+[2024-11-16T10:22:29.631Z] Saved 334 articles for thread 461447906
+[2024-11-16T10:22:29.631Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463357290/#463357290
+[2024-11-16T10:22:41.060Z] Thread 463357290: Fetched 28 articles
+[2024-11-16T10:22:41.060Z] Saved 28 articles for thread 463357290
+[2024-11-16T10:22:41.060Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460689291/#460689291
+[2024-11-16T10:22:53.597Z] Thread 460689291: Fetched 246 articles
+[2024-11-16T10:22:53.597Z] Saved 246 articles for thread 460689291
+[2024-11-16T10:22:53.597Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463465286/#463465286
+[2024-11-16T10:23:05.289Z] Thread 463465286: Fetched 14 articles
+[2024-11-16T10:23:05.289Z] Saved 14 articles for thread 463465286
+[2024-11-16T10:23:05.290Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463889610/#463889610
+[2024-11-16T10:23:16.978Z] Thread 463889610: Fetched 35 articles
+[2024-11-16T10:23:16.978Z] Saved 35 articles for thread 463889610
+[2024-11-16T10:23:16.978Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463128095/#463128095
+[2024-11-16T10:23:28.423Z] Thread 463128095: Fetched 65 articles
+[2024-11-16T10:23:28.423Z] Saved 65 articles for thread 463128095
+[2024-11-16T10:23:28.423Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463045978/#463045978
+[2024-11-16T10:23:40.223Z] Thread 463045978: Fetched 60 articles
+[2024-11-16T10:23:40.223Z] Saved 60 articles for thread 463045978
+[2024-11-16T10:23:40.224Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463800469/#463800469
+[2024-11-16T10:23:51.645Z] Thread 463800469: Fetched 67 articles
+[2024-11-16T10:23:51.646Z] Saved 67 articles for thread 463800469
+[2024-11-16T10:23:51.646Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461853277/#461853277
+[2024-11-16T10:24:03.104Z] Thread 461853277: Fetched 13 articles
+[2024-11-16T10:24:03.104Z] Saved 13 articles for thread 461853277
+[2024-11-16T10:24:03.104Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463262364/#463262364
+[2024-11-16T10:24:14.506Z] Thread 463262364: Fetched 17 articles
+[2024-11-16T10:24:14.507Z] Saved 17 articles for thread 463262364
+[2024-11-16T10:24:14.507Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463444568/#463444568
+[2024-11-16T10:24:26.420Z] Thread 463444568: Fetched 309 articles
+[2024-11-16T10:24:26.420Z] Saved 309 articles for thread 463444568
+[2024-11-16T10:24:26.420Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461029523/#461029523
+[2024-11-16T10:24:37.862Z] Thread 461029523: Fetched 18 articles
+[2024-11-16T10:24:37.862Z] Saved 18 articles for thread 461029523
+[2024-11-16T10:24:37.862Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463326849/#463326849
+[2024-11-16T10:24:49.185Z] Thread 463326849: Fetched 96 articles
+[2024-11-16T10:24:49.185Z] Saved 96 articles for thread 463326849
+[2024-11-16T10:24:49.186Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461353076/#461353076
+[2024-11-16T10:25:00.900Z] Thread 461353076: Fetched 11 articles
+[2024-11-16T10:25:00.900Z] Saved 11 articles for thread 461353076
+[2024-11-16T10:25:00.900Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463448150/#463448150
+[2024-11-16T10:25:12.610Z] Thread 463448150: Fetched 329 articles
+[2024-11-16T10:25:12.611Z] Saved 329 articles for thread 463448150
+[2024-11-16T10:25:12.611Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462143008/#462143008
+[2024-11-16T10:25:24.434Z] Thread 462143008: Fetched 316 articles
+[2024-11-16T10:25:24.434Z] Saved 316 articles for thread 462143008
+[2024-11-16T10:25:24.434Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463310545/#463310545
+[2024-11-16T10:25:36.222Z] Thread 463310545: Fetched 123 articles
+[2024-11-16T10:25:36.223Z] Saved 123 articles for thread 463310545
+[2024-11-16T10:25:36.223Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461478081/#461478081
+[2024-11-16T10:25:47.914Z] Thread 461478081: Fetched 106 articles
+[2024-11-16T10:25:47.914Z] Saved 106 articles for thread 461478081
+[2024-11-16T10:25:47.915Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459825668/#459825668
+[2024-11-16T10:26:00.300Z] Thread 459825668: Fetched 127 articles
+[2024-11-16T10:26:00.300Z] Saved 127 articles for thread 459825668
+[2024-11-16T10:26:00.300Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460159523/#460159523
+[2024-11-16T10:26:12.143Z] Thread 460159523: Fetched 325 articles
+[2024-11-16T10:26:12.144Z] Saved 325 articles for thread 460159523
+[2024-11-16T10:26:12.144Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463476334/#463476334
+[2024-11-16T10:26:23.689Z] Thread 463476334: Fetched 163 articles
+[2024-11-16T10:26:23.689Z] Saved 163 articles for thread 463476334
+[2024-11-16T10:26:23.690Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460730714/#460730714
+[2024-11-16T10:26:34.978Z] Thread 460730714: Fetched 35 articles
+[2024-11-16T10:26:34.978Z] Saved 35 articles for thread 460730714
+[2024-11-16T10:26:34.979Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461340505/#461340505
+[2024-11-16T10:26:46.361Z] Thread 461340505: Fetched 9 articles
+[2024-11-16T10:26:46.361Z] Saved 9 articles for thread 461340505
+[2024-11-16T10:26:46.361Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460199357/#460199357
+[2024-11-16T10:26:57.786Z] Thread 460199357: Fetched 103 articles
+[2024-11-16T10:26:57.787Z] Saved 103 articles for thread 460199357
+[2024-11-16T10:26:57.787Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463223923/#463223923
+[2024-11-16T10:27:09.254Z] Thread 463223923: Fetched 98 articles
+[2024-11-16T10:27:09.254Z] Saved 98 articles for thread 463223923
+[2024-11-16T10:27:09.255Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461394437/#461394437
+[2024-11-16T10:27:20.998Z] Thread 461394437: Fetched 55 articles
+[2024-11-16T10:27:20.999Z] Saved 55 articles for thread 461394437
+[2024-11-16T10:27:20.999Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462348480/#462348480
+[2024-11-16T10:27:33.589Z] Thread 462348480: Fetched 81 articles
+[2024-11-16T10:27:33.589Z] Saved 81 articles for thread 462348480
+[2024-11-16T10:27:33.589Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461368469/#461368469
+[2024-11-16T10:27:44.926Z] Thread 461368469: Fetched 76 articles
+[2024-11-16T10:27:44.926Z] Saved 76 articles for thread 461368469
+[2024-11-16T10:27:44.926Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463623806/#463623806
+[2024-11-16T10:27:56.483Z] Thread 463623806: Fetched 55 articles
+[2024-11-16T10:27:56.484Z] Saved 55 articles for thread 463623806
+[2024-11-16T10:27:56.484Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463165042/#463165042
+[2024-11-16T10:28:08.866Z] Thread 463165042: Fetched 134 articles
+[2024-11-16T10:28:08.866Z] Saved 134 articles for thread 463165042
+[2024-11-16T10:28:08.867Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461850906/#461850906
+[2024-11-16T10:28:20.229Z] Thread 461850906: Fetched 5 articles
+[2024-11-16T10:28:20.230Z] Saved 5 articles for thread 461850906
+[2024-11-16T10:28:20.230Z] Navigating to URL: https://archive.4plebs.org/pol/thread/459797247/#459797247
+[2024-11-16T10:28:32.038Z] Thread 459797247: Fetched 88 articles
+[2024-11-16T10:28:32.038Z] Saved 88 articles for thread 459797247
+[2024-11-16T10:28:32.038Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463257991/#463257991
+[2024-11-16T10:28:43.490Z] Thread 463257991: Fetched 72 articles
+[2024-11-16T10:28:43.490Z] Saved 72 articles for thread 463257991
+[2024-11-16T10:28:43.491Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463815234/#463815234
+[2024-11-16T10:28:55.174Z] Thread 463815234: Fetched 47 articles
+[2024-11-16T10:28:55.175Z] Saved 47 articles for thread 463815234
+[2024-11-16T10:28:55.175Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463528555/#463528555
+[2024-11-16T10:29:06.858Z] Thread 463528555: Fetched 123 articles
+[2024-11-16T10:29:06.858Z] Saved 123 articles for thread 463528555
+[2024-11-16T10:29:06.858Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462192750/#462192750
+[2024-11-16T10:29:18.459Z] Thread 462192750: Fetched 13 articles
+[2024-11-16T10:29:18.459Z] Saved 13 articles for thread 462192750
+[2024-11-16T10:29:18.459Z] Navigating to URL: https://archive.4plebs.org/pol/thread/463063400/#463063400
+[2024-11-16T10:29:29.909Z] Thread 463063400: Fetched 13 articles
+[2024-11-16T10:29:29.910Z] Saved 13 articles for thread 463063400
+[2024-11-16T10:29:29.910Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462603032/#462603032
+[2024-11-16T10:29:41.714Z] Thread 462603032: Fetched 308 articles
+[2024-11-16T10:29:41.714Z] Saved 308 articles for thread 462603032
+[2024-11-16T10:29:41.714Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460653277/#460653277
+[2024-11-16T10:29:53.488Z] Thread 460653277: Fetched 266 articles
+[2024-11-16T10:29:53.488Z] Saved 266 articles for thread 460653277
+[2024-11-16T10:29:53.488Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462254053/#462254053
+[2024-11-16T10:30:05.018Z] Thread 462254053: Fetched 12 articles
+[2024-11-16T10:30:05.018Z] Saved 12 articles for thread 462254053
+[2024-11-16T10:30:05.019Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461827036/#461827036
+[2024-11-16T10:30:17.155Z] Thread 461827036: Fetched 343 articles
+[2024-11-16T10:30:17.156Z] Saved 343 articles for thread 461827036
+[2024-11-16T10:30:17.156Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460481251/#460481251
+[2024-11-16T10:30:28.560Z] Thread 460481251: Fetched 33 articles
+[2024-11-16T10:30:28.561Z] Saved 33 articles for thread 460481251
+[2024-11-16T10:30:28.561Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462691958/#462691958
+[2024-11-16T10:30:39.907Z] Thread 462691958: Fetched 115 articles
+[2024-11-16T10:30:39.908Z] Saved 115 articles for thread 462691958
+[2024-11-16T10:30:39.908Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460086711/#460086711
+[2024-11-16T10:30:51.365Z] Thread 460086711: Fetched 44 articles
+[2024-11-16T10:30:51.365Z] Saved 44 articles for thread 460086711
+[2024-11-16T10:30:51.365Z] Navigating to URL: https://archive.4plebs.org/pol/thread/460012780/#460012780
+[2024-11-16T10:31:03.045Z] Thread 460012780: Fetched 158 articles
+[2024-11-16T10:31:03.045Z] Saved 158 articles for thread 460012780
+[2024-11-16T10:31:03.045Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462284215/#462284215
+[2024-11-16T10:31:14.334Z] Thread 462284215: Fetched 67 articles
+[2024-11-16T10:31:14.334Z] Saved 67 articles for thread 462284215
+[2024-11-16T10:31:14.335Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461691549/#461691549
+[2024-11-16T10:31:25.805Z] Thread 461691549: Fetched 8 articles
+[2024-11-16T10:31:25.806Z] Saved 8 articles for thread 461691549
+[2024-11-16T10:31:25.806Z] Navigating to URL: https://archive.4plebs.org/pol/thread/462115825/#462115825
+[2024-11-16T10:31:37.527Z] Thread 462115825: Fetched 91 articles
+[2024-11-16T10:31:37.528Z] Saved 91 articles for thread 462115825
+[2024-11-16T10:31:37.528Z] Navigating to URL: https://archive.4plebs.org/pol/thread/461023264/#461023264
+[2024-11-16T10:31:48.997Z] Thread 461023264: Fetched 32 articles
+[2024-11-16T10:31:48.997Z] Saved 32 articles for thread 461023264
+[2024-11-16T10:31:49.036Z] Data from processed_raw_merged_nov14.txt_part_4_split_1.txt saved to all_articles_processed_raw_merged_nov14.txt_part_4_split_1.json
+[2024-11-16T10:31:49.037Z] Scraping complete for processed_raw_merged_nov14.txt_part_4_split_1.txt
+[2024-11-16T10:31:49.037Z] Committing logs to Git...
