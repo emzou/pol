@@ -69,3 +69,58 @@ def extract_and_process_replies(text):
     df = pd.DataFrame(extract_and_process_replies(text))
 
     df.to_csv("nov12_dataset_full.csv")
+
+
+
+arcane = pd.read_csv("jun22_sep23.csv")
+
+import pandas as pd 
+import json
+from bs4 import BeautifulSoup
+import re
+from collections import defaultdict
+import sys
+
+from lingua import Language, LanguageDetectorBuilder
+
+# Language detector setup
+languages = [Language.LATIN, Language.ENGLISH, Language.ITALIAN]
+detector = LanguageDetectorBuilder.from_languages(*languages).build()
+
+def latin_italian_exterminator(s):
+    latin_confidence_value = detector.compute_language_confidence(s, Language.LATIN)
+    latin_cv = float(f"{latin_confidence_value:.2f}") 
+    italian_confidence_value = detector.compute_language_confidence(s, Language.ITALIAN)
+    italian_cv = float(f"{italian_confidence_value:.2f}")
+    return (latin_cv, italian_cv)
+
+def is_latin_or_italian(word):
+    if latin_italian_exterminator(word)[0] > 0.55:
+        return False
+    elif latin_italian_exterminator(word)[1] >0.55: 
+        return False
+    else: 
+        return True
+
+def check_dei_english_status(tokens):
+    for i, word in enumerate(tokens):
+        if word.lower() == 'dei':
+            before = tokens[i-1] if i > 0 else None
+            after = tokens[i+1] if i < len(tokens)-1 else None
+            if before and after:
+                if is_latin_or_italian(before) and is_latin_or_italian(after):
+                    return "English"
+            # If only before exists and it's Latin
+            elif before and is_latin_or_italian(before):
+                return "English"
+            # If only after exists and it's Latin
+            elif after and is_latin_or_italian(after):
+                return "English"
+            
+    return "NotEnglish"
+
+
+arcane['Tokens'] = arcane['text'].apply(lambda x: re.findall(r'\b\w+\b', x))
+arcane['Lang_Check'] = arcane['Tokens'].apply(check_dei_english_status) 
+dat = arcane[arcane['Lang_Check'] == "English"]
+root_dei_mentions = [str(m) for m in dat['post_id']]
