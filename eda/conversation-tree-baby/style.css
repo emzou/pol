@@ -1,0 +1,299 @@
+/* General body styling */
+body {
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.6em; /* Reduced font size */
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 10px 50px; /* Reduced padding */
+}
+
+/* Wrapper for the entire tree */
+.tree {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    margin: 15px 0; /* Reduced margin */
+    line-height: 1; /* Adjust spacing by lines */
+    padding: calc(1.2em / 2) 5px;
+    position: relative; /* Needed for vertical lines */
+    display: block;
+    transition: max-height 0.3s ease, overflow 0.3s ease; /* Ensure posts are stacked */
+}
+
+.tree-wrapper {
+    display: flex; /* Align toggle and tree side by side */
+    flex-direction: column; /* Align the toggle with the top of the tree */
+    margin-bottom: calc(1.2em / 2); /* Space between trees based on line height */
+}
+
+/* Collapsed tree state */
+.tree.tree-collapsed {
+    max-height: calc(1.2em * 2); /* Shrink to show ID and one line */
+    overflow: hidden; /* Hide anything beyond */
+    transition: max-height 0.3s ease;
+}
+
+.tree-toggle {
+    font-size: 0.8em; /* Match toggle size with text */
+    cursor: pointer;
+    color: #007bff;
+    margin-bottom: 5px; /* Space between toggle and content */
+}
+
+.tree-collapsed .root-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* Limit to 1 line */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Wrapper for each node */
+.node-wrapper {
+    position: relative; /* Ensure vertical lines position correctly */
+    margin-bottom: 1px; /* Space between nodes */
+    padding-left: 20px; /* Make space for vertical lines */
+}
+
+/* Vertical line for hierarchy */
+.vertical-line {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 1.5; /* Align line to the left of the node-wrapper */
+    width: 1px;
+    background-color: #ccc; /* Light gray color for line */
+     /* Place line behind text z-index: -1;*/
+}
+
+/* Indentation for nested replies */
+.replies-wrapper {
+    margin-left: 20px; /* Indent nested replies */
+    margin-top: 0px; /* Space between parent and first reply */
+    margin-bottom: 0px; /* Remove extra space after replies */
+    position: relative; /* Maintain alignment */
+}
+
+/* Metadata styling */
+.metadata {
+    color: gray;
+    font-size: 0.6em; /* Proportional font size */
+    margin-top: 1px; /* Reduced spacing */
+    margin-bottom: 1px; /* Reduced spacing */
+    display: flex;
+    align-items: center; /* Align content on the same line */
+    gap: 2px; /* Space between items */
+}
+
+/* Text preview for root (3 lines) */
+.truncated-text {
+    display:inline-block;
+    color: navy;
+    display: -webkit-box;
+    line-height: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    -webkit-box-orient: vertical;
+    cursor: pointer; 
+}
+
+.truncated-text.root {
+    -webkit-line-clamp: 3; /* Show 3 lines for root nodes */
+}
+
+.truncated-text.reply {
+    -webkit-line-clamp: 1; /* Show 1 line for replies */
+}
+
+/* Full text hidden by default */
+.full-text.hidden {
+    display: none;
+    color: navy;
+}
+
+.expand-collapse {
+    display: inline-block;
+    color: green; /* Default expand color */
+    font-size: 0.8em; /* Match toggle size with text */
+    cursor: pointer;
+    margin-right: 10px; /* Space between toggle and vertical line */
+    margin-left: -15px; /* Offset to align with the vertical line */
+    vertical-align: middle; /* Align with text */
+    position: relative; /* Keep it aligned properly */
+    z-index: 1; /* Ensure it sits above the vertical line */
+    top: 1.2em;
+}
+
+.expand-collapse.expanded {
+    color: orange; /* Change color to orange when expanded */
+}
+
+/* Tabs container */
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.tab-link {
+    color: #333;
+    font-size: 1.2em;
+    margin: 0 10px;
+    text-decoration: none;
+    position: relative;
+}
+
+.tab-link:hover {
+    color: #007bff;
+}
+
+.tab-link:hover::after {
+    background-color: #007bff;
+    content: '';
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.tab-pane {
+    display: none;
+}
+
+.tab-pane.active {
+    display: block;
+}
+
+.highlight {
+    background-color: white;
+    color: rgb(218, 100, 67);
+    padding: 1px 1px;
+    border-color: #007bff;
+    border-radius: 1px;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+#filter-toggle, #sort-toggle {
+    cursor: pointer;
+    color: #007bff;
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+#filter-options, #sort-options {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+
+collapsible {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 0.8em;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.collapsible-content {
+    display: none;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Pagination info */
+#pagination-info {
+    font-size: 0.7em;
+    color: gray;
+    margin-top: 10px;
+}
+
+button.collapsible {
+    background: none;
+    border: none;
+    color: #007bff; /* Blue link color */
+    cursor: pointer;
+    font-size: 1em;
+    padding: 0; /* Remove padding */
+    text-decoration: underline; /* Optional: makes it look like a link */
+}
+
+button.collapsible:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+.collapsible-content {
+    margin-top: 10px; /* Add some spacing below the collapsible button */
+}
+
+button#sort-replies,
+input#date-filter {
+    background: none;
+    border: none;
+    color: #007bff; /* Blue link color */
+    cursor: pointer;
+    font-size: 1em;
+    padding: 0; /* Remove padding */
+    text-decoration: underline; /* Optional: makes it look like a link */
+}
+
+button#sort-replies:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+#pagination-controls {
+    position: fixed; /* Fixes the element relative to the viewport */
+    top: 10%; /* Centers the controls vertically */
+    right: 1px; /* Centers the controls horizontally */
+    transform: translateX(-50%); /* Centers the element based on its width */
+    background-color: none; /* Background for better visibility */
+    padding: 1px;
+    display: flex;
+    border: none; /* Optional border for better visibility */
+    border-radius: none; /* Rounded corners for aesthetics */
+    z-index: 1000; /* Ensures it stays on top of other content */
+    flex-direction: row; /* Stacks buttons vertically */
+    align-items: center; 
+}
+
+#pagination-controls button {
+    margin: 0 5px;
+    padding: 1px 1px;
+    font-size: 8px;
+    font-family: 'Inconsolata', monospace;
+    cursor: pointer;
+    background-color: #007BFF; /* Blue background */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+#pagination-controls button:hover {
+    background-color: #0056b3;
+}
+
+#pagination-info {
+    font-size: 0.9em;
+    font-family: 'Inconsolata', monospace;
+    color: gray;
+}
+
+
+
+
+
