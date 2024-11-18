@@ -1,0 +1,207 @@
+---
+title: "11_17_aintitfun"
+format: html
+editor: visual
+---
+
+```{r}
+## loading packages in
+
+library(jsonlite)
+library(igraph)
+library(ggraph)
+library(tidyverse)
+library(ggplot2)
+library (scales)
+
+```
+
+```{r}
+data <- fromJSON("11_17_split1-6ctrees.json", flatten = TRUE)
+
+# Select a specific tree
+selected_tree <- data %>% 
+  filter(ID == "456660081") %>% 
+  as.list()
+
+# Build the tree structure
+tree_structure <- list(
+  ID = selected_tree$ID,
+  Text = selected_tree$Text,
+  Reply_Count = selected_tree$Reply_Count,
+  Replies = selected_tree$Replies
+)
+
+```
+
+```{r}
+extract_edges_and_nodes <- function(node, parent_id = NULL) {
+    edges <- list()
+    nodes <- list()
+
+    # Ensure node is a single object or a single-row data frame
+    if (is.data.frame(node)) {
+        if (nrow(node) != 1) {
+            stop("Node should be a single-row data frame")
+        }
+        node <- as.list(node)  # Convert single-row data frame to list
+    }
+
+    # Handle missing node ID
+    if (is.null(node$ID) || node$ID == "") {
+        node$ID <- paste0("temp_id_", sample(1e6, 1))
+    }
+
+    # Add current node
+    nodes <- append(nodes, list(data.frame(
+        ID = node$ID,
+        Text = node$Text,
+        Reply_Count = node$Reply_Count,
+        stringsAsFactors = FALSE
+    )))
+
+    # Add edge from parent to current node
+    if (!is.null(parent_id)) {
+        edges <- append(edges, list(data.frame(
+            from = parent_id,
+            to = node$ID,
+            stringsAsFactors = FALSE
+        )))
+    }
+
+    # Process Replies recursively
+    if (!is.null(node$Replies) && length(node$Replies) > 0) {
+        if (is.data.frame(node$Replies)) {
+            # Split data frame into individual rows and process each
+            replies_list <- split(node$Replies, seq_len(nrow(node$Replies)))
+            for (reply in replies_list) {
+                reply <- as.list(reply)  # Convert each reply to a list
+                res <- extract_edges_and_nodes(reply, node$ID)
+                edges <- append(edges, res$edges)
+                nodes <- append(nodes, res$node_list)
+            }
+        } else if (is.list(node$Replies)) {
+            # Process each reply in the list
+            for (reply in node$Replies) {
+                if (is.data.frame(reply)) {
+                    # Split data frame into individual rows
+                    replies_list <- split(reply, seq_len(nrow(reply)))
+                    for (nested_reply in replies_list) {
+                        nested_reply <- as.list(nested_reply)
+                        res <- extract_edges_and_nodes(nested_reply, node$ID)
+                        edges <- append(edges, res$edges)
+                        nodes <- append(nodes, res$node_list)
+                    }
+                } else if (is.list(reply)) {
+                    # If reply is already a list, process it directly
+                    res <- extract_edges_and_nodes(reply, node$ID)
+                    edges <- append(edges, res$edges)
+                    nodes <- append(nodes, res$node_list)
+                }
+            }
+        }
+    }
+
+    return(list(edges = edges, node_list = nodes))
+}
+
+
+```{r}
+res <- extract_edges_and_nodes(tree_structure)
+edges <- do.call(rbind, res$edges)
+nodes <- do.call(rbind, res$node_list)
+
+# Deduplicate edges and nodes
+edges <- edges[!duplicated(edges), ]
+nodes <- nodes[!duplicated(nodes$ID), ]
+
+```
+
+
+```{r}
+edges <- do.call(rbind, lapply(results$edges, function(edge) {
+  data.frame(from = edge[1], to = edge[2], stringsAsFactors = FALSE)
+}))
+
+nodes <- do.call(rbind, results$nodes)
+nodes <- nodes[!duplicated(nodes$ID), ]
+```
+
+```{r}
+graph <- graph_from_data_frame(d = edges, vertices = nodes, directed = TRUE)
+```
+
+
+```{r}
+ggraph(graph, layout = "dendrogram", circular = TRUE) + 
+  geom_edge_diagonal(color = "grey", alpha = 0.7) +
+  geom_node_point(size = 3, color = "blue") +
+  geom_node_text(aes(label = name), 
+                 size = 3, repel = TRUE, max.overlaps = Inf)+ 
+  theme_void() +
+  ggtitle("Radial Visualization of Conversation Tree")
+```
+
+
+
+
+```{r}
+# Extract edges and nodes
+results <- extract_edges_and_nodes(selected_tree)
+
+# Convert edges to a data frame
+edges <- do.call(rbind, lapply(res$edges, function(edge) {
+  if (length(edge) == 2) {
+    data.frame(from = edge[1], to = edge[2], stringsAsFactors = FALSE)
+  } else {
+    NULL
+  }
+}))
+
+# Convert nodes to a data frame
+nodes <- do.call(rbind, lapply(res$node_list, function(node) {
+  data.frame(ID = node$ID, stringsAsFactors = FALSE)
+}))
+
+
+
+```
+
+```{r}
+# Check for duplicate IDs in the nodes dataframe
+duplicate_ids <- nodes$ID[duplicated(nodes$ID)]
+if (length(duplicate_ids) > 0) {
+  cat("Duplicate IDs found:\n")
+  print(duplicate_ids)
+}
+
+# Remove duplicate rows from the nodes dataframe
+nodes <- nodes[!duplicated(nodes$ID), ]
+
+# Regenerate the graph
+graph <- graph_from_data_frame(d = edges, vertices = nodes, directed = TRUE)
+
+# Plot the graph
+ggraph(graph, layout = "dendrogram", circular = TRUE) + 
+  geom_edge_diagonal(color = "grey", alpha = 0.7) +
+  geom_node_point(size = 3, color = "blue") +
+  theme_void() +
+  ggtitle("Radial Visualization of Conversation Tree")
+
+```
+
+```{r}
+library(ggraph)
+library(ggplot2)
+
+# Create a radial tree visualization
+ggraph(graph, layout = "dendrogram", circular = TRUE) + 
+  geom_edge_diagonal(color = "grey", alpha = 0.7) +  # Radial edges
+  geom_node_point(size = 3, color = "blue") +        # Nodes
+  geom_node_text(aes(label = name, angle = -((-node_angle(x, y) + 90) %% 180) + 90), 
+                 size = 3, hjust = 1, repel = TRUE, max.overlaps = Inf) + # Adjusted labels for radial layout
+  theme_void() +                                     # Clean up the theme
+  ggtitle("Radial Visualization of Conversation Tree")
+
+
+```
